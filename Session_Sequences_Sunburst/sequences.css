@@ -1,0 +1,80 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  background-color: #fff;
+  width: 1500px;
+  height: 1000px;
+  margin-top: 10px;
+}
+.title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size:32px;
+  font-family: 'Oswald', sans-serif;
+  color: #2B2B2B;
+}
+.texts {
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 140%;
+}
+.credit {
+  color: #9E9E9E;
+  font-size: 10px;
+  margin-bottom: 0.5em;
+}
+.notes {
+  color: #9E9E9E;
+  font-size: 1px;
+}
+.popover {
+  pointer-events: none;
+}
+
+#main {
+  float: left;
+  width: 750px;
+}
+
+#sidebar {
+  float: right;
+  width: 100px;
+}
+
+#sequence {
+  width: 600px;
+  height: 70px;
+}
+
+#legend {
+  padding: 10px 0 0 3px;
+}
+
+#sequence text, #legend text {
+  font-weight: 600;
+  fill: #fff;
+}
+
+#chart {
+  position: relative;
+}
+
+#chart path {
+  stroke: #fff;
+}
+
+#explanation {
+  position: absolute;
+  top: 360px;
+  left: 675px;
+  width: 140px;
+  text-align: center;
+  color: #666;
+  z-index: -1;
+}
+
+#percentage {
+  font-size: 2.5em;
+}

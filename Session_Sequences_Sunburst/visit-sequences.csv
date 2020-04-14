@@ -1,0 +1,4207 @@
+charity|charity|softlines,2
+charity|hardlines|ttd - leisure,1
+charity|hbw|hbw,12
+charity|hbw|retail,2
+charity|home|end,5
+charity|hotel|hotel,1
+charity|retail|end,28
+charity|retail|h&a,1
+charity|retail|health & beauty,1
+charity|retail|retail,8
+charity|retail|tech & toys,1
+charity|softlines|home,3
+charity|softlines|softlines,7
+charity|tech & toys|softlines,1
+charity|ttd|hbw,3
+charity|ttd|tech & toys,1
+charity|ttd - leisure|h&a,2
+charity|ttd - leisure|ttd - leisure,20
+f&d|charity|softlines,1
+f&d|f&d|end,330143
+f&d|f&d|health & beauty,6918
+f&d|f&d|hotel,5411
+f&d|f&d|tech & toys,10995
+f&d|h&a|hbw,5254
+f&d|h&a|hotel,538
+f&d|h&a|multi,8
+f&d|h&a|unknown,27
+f&d|hardlines|health & beauty,1047
+f&d|hardlines|multi,1
+f&d|hardlines|softlines,3969
+f&d|hardlines|tour,20
+f&d|hardlines|unknown,35
+f&d|hbw|f&d,27336
+f&d|hbw|health & beauty,2013
+f&d|hbw|hotel,1416
+f&d|hbw|tour,137
+f&d|hbw|ttd - live,1964
+f&d|health & beauty|h&a,839
+f&d|health & beauty|hbw,2260
+f&d|health & beauty|ttd,991
+f&d|health & beauty|ttd - live,307
+f&d|health & beauty|unknown,42
+f&d|home|end,16939
+f&d|home|hbw,2105
+f&d|home|tour,28
+f&d|home|unknown,37
+f&d|hotel|home,380
+f&d|hotel|hotel,6394
+f&d|hotel|retail,1355
+f&d|hotel|ttd,707
+f&d|hotel|ttd - live,306
+f&d|hotel|unknown,12
+f&d|multi|h&a,18
+f&d|multi|tech & toys,7
+f&d|multi|ttd,4
+f&d|multi|ttd - live,5
+f&d|retail|end,94184
+f&d|retail|h&a,4259
+f&d|retail|hardlines,5948
+f&d|retail|unknown,92
+f&d|softlines|f&d,6770
+f&d|softlines|retail,4089
+f&d|softlines|ttd,1062
+f&d|tech & toys|end,19749
+f&d|tech & toys|f&d,5459
+f&d|tech & toys|hardlines,3473
+f&d|tech & toys|hotel,331
+f&d|tech & toys|multi,2
+f&d|tech & toys|tech & toys,15109
+f&d|tech & toys|unknown,29
+f&d|tour|f&d,149
+f&d|tour|hotel,24
+f&d|ttd|multi,10
+f&d|ttd - leisure|tech & toys,2933
+f&d|ttd - leisure|ttd - leisure,69408
+f&d|ttd - live|charity,1
+f&d|ttd - live|health & beauty,126
+f&d|ttd - live|home,421
+f&d|ttd - live|hotel,236
+f&d|ttd - live|tech & toys,498
+f&d|ttd - live|tour,23
+f&d|unknown|hbw,221
+f&d|unknown|multi,1
+f&d|unknown|retail,134
+f&d|unknown|softlines,88
+f&d|unknown|ttd - leisure,109
+f&d|unknown|unknown,334
+h&a|charity|charity,3
+h&a|charity|h&a,2
+h&a|f&d|end,25182
+h&a|f&d|health & beauty,671
+h&a|f&d|multi,7
+h&a|f&d|retail,4284
+h&a|f&d|ttd - leisure,5134
+h&a|h&a|home,5327
+h&a|h&a|hotel,2322
+h&a|h&a|tech & toys,5784
+h&a|h&a|unknown,143
+h&a|hardlines|end,12618
+h&a|hardlines|charity,1
+h&a|hardlines|hbw,1360
+h&a|hardlines|multi,1
+h&a|hardlines|ttd - live,231
+h&a|hardlines|unknown,16
+h&a|hbw|end,41705
+h&a|hbw|retail,5115
+h&a|hbw|ttd,1943
+h&a|hbw|ttd - leisure,6795
+h&a|health & beauty|f&d,614
+h&a|health & beauty|h&a,2485
+h&a|health & beauty|hbw,1251
+h&a|health & beauty|tour,17
+h&a|health & beauty|ttd - leisure,834
+h&a|health & beauty|ttd - live,176
+h&a|home|h&a,2686
+h&a|home|retail,1320
+h&a|home|softlines,1777
+h&a|home|tour,16
+h&a|home|ttd - live,199
+h&a|hotel|multi,4
+h&a|hotel|ttd - leisure,897
+h&a|multi|end,66
+h&a|multi|home,3
+h&a|multi|ttd - leisure,23
+h&a|multi|ttd - live,5
+h&a|retail|hardlines,2280
+h&a|retail|tour,46
+h&a|retail|ttd,1323
+h&a|softlines|hotel,173
+h&a|tech & toys|f&d,764
+h&a|tech & toys|hotel,189
+h&a|tech & toys|tech & toys,7491
+h&a|tour|health & beauty,8
+h&a|tour|retail,25
+h&a|tour|ttd,13
+h&a|ttd|h&a,6824
+h&a|ttd|softlines,964
+h&a|ttd|tech & toys,802
+h&a|ttd|ttd,11075
+h&a|ttd|ttd - leisure,4543
+h&a|ttd|unknown,55
+h&a|ttd - leisure|home,1142
+h&a|ttd - leisure|tech & toys,1329
+h&a|ttd - leisure|ttd - leisure,29474
+h&a|ttd - leisure|unknown,3
+h&a|ttd - live|hardlines,309
+h&a|ttd - live|ttd - leisure,1401
+h&a|unknown|end,140
+h&a|unknown|health & beauty,22
+h&a|unknown|hotel,4
+h&a|unknown|retail,40
+h&a|unknown|ttd - leisure,44
+h&a|unknown|ttd - live,12
+hardlines|f&d|end,8622
+hardlines|f&d|f&d,5651
+hardlines|f&d|tour,21
+hardlines|f&d|ttd,613
+hardlines|f&d|ttd - live,236
+hardlines|h&a|end,6408
+hardlines|h&a|hbw,881
+hardlines|h&a|tech & toys,575
+hardlines|h&a|ttd - live,146
+hardlines|h&a|unknown,8
+hardlines|hardlines|f&d,5270
+hardlines|hardlines|health & beauty,6216
+hardlines|hardlines|home,18576
+hardlines|hardlines|retail,13924
+hardlines|hardlines|ttd,3073
+hardlines|hardlines|unknown,203
+hardlines|hbw|tech & toys,1095
+hardlines|hbw|ttd,625
+hardlines|health & beauty|f&d,628
+hardlines|health & beauty|h&a,470
+hardlines|health & beauty|home,2469
+hardlines|health & beauty|ttd,589
+hardlines|health & beauty|unknown,37
+hardlines|home|hbw,1708
+hardlines|home|retail,3329
+hardlines|home|ttd - leisure,1589
+hardlines|home|ttd - live,330
+hardlines|hotel|end,2346
+hardlines|hotel|hbw,198
+hardlines|hotel|retail,283
+hardlines|hotel|ttd,136
+hardlines|hotel|ttd - live,60
+hardlines|hotel|unknown,2
+hardlines|multi|ttd - leisure,4
+hardlines|softlines|h&a,657
+hardlines|softlines|hardlines,14754
+hardlines|softlines|home,6204
+hardlines|softlines|hotel,304
+hardlines|tech & toys|end,18399
+hardlines|tech & toys|f&d,923
+hardlines|tech & toys|multi,3
+hardlines|tech & toys|softlines,5659
+hardlines|tech & toys|ttd - leisure,1442
+hardlines|tour|end,167
+hardlines|tour|f&d,6
+hardlines|tour|h&a,5
+hardlines|tour|softlines,22
+hardlines|tour|tech & toys,13
+hardlines|tour|ttd - leisure,19
+hardlines|ttd|tour,15
+hardlines|ttd - leisure|home,912
+hardlines|ttd - leisure|hotel,241
+hardlines|ttd - leisure|retail,1927
+hardlines|ttd - live|f&d,153
+hardlines|ttd - live|h&a,76
+hardlines|ttd - live|health & beauty,33
+hardlines|ttd - live|retail,354
+hardlines|ttd - live|tech & toys,190
+hardlines|ttd - live|ttd - live,944
+hardlines|unknown|h&a,10
+hardlines|unknown|hardlines,116
+hardlines|unknown|home,48
+hardlines|unknown|retail,49
+hardlines|unknown|tech & toys,45
+hbw|f&d|retail,9021
+hbw|f&d|softlines,3115
+hbw|f&d|ttd - leisure,11607
+hbw|f&d|ttd - live,1711
+hbw|h&a|f&d,3806
+hbw|h&a|health & beauty,1059
+hbw|h&a|hotel,728
+hbw|h&a|multi,9
+hbw|h&a|softlines,1853
+hbw|h&a|tech & toys,1415
+hbw|hardlines|f&d,1503
+hbw|hardlines|hbw,9852
+hbw|hardlines|hotel,363
+hbw|hardlines|tech & toys,3493
+hbw|hardlines|tour,39
+hbw|hbw|f&d,42994
+hbw|hbw|hardlines,24737
+hbw|hbw|retail,54353
+hbw|hbw|tour,849
+hbw|hbw|ttd,26192
+hbw|hbw|ttd - live,11420
+hbw|health & beauty|end,12290
+hbw|health & beauty|health & beauty,13673
+hbw|health & beauty|tour,45
+hbw|health & beauty|ttd,1430
+hbw|home|end,19651
+hbw|home|health & beauty,2204
+hbw|home|home,17219
+hbw|home|hotel,353
+hbw|home|multi,3
+hbw|home|ttd - live,488
+hbw|hotel|hardlines,596
+hbw|hotel|hbw,4526
+hbw|hotel|home,483
+hbw|hotel|multi,2
+hbw|hotel|softlines,535
+hbw|hotel|tour,38
+hbw|multi|end,62
+hbw|multi|h&a,22
+hbw|multi|health & beauty,5
+hbw|multi|softlines,5
+hbw|multi|tech & toys,5
+hbw|retail|f&d,6917
+hbw|retail|hardlines,5617
+hbw|retail|health & beauty,2870
+hbw|retail|home,4364
+hbw|retail|hotel,1406
+hbw|retail|multi,10
+hbw|retail|ttd,3710
+hbw|softlines|h&a,1158
+hbw|softlines|health & beauty,2833
+hbw|softlines|retail,4219
+hbw|softlines|unknown,79
+hbw|tech & toys|health & beauty,1645
+hbw|tech & toys|multi,4
+hbw|tour|hbw,419
+hbw|tour|home,33
+hbw|tour|softlines,53
+hbw|tour|ttd,46
+hbw|tour|ttd - live,44
+hbw|ttd|f&d,7425
+hbw|ttd|h&a,3595
+hbw|ttd|health & beauty,2243
+hbw|ttd - leisure|multi,11
+hbw|ttd - leisure|tech & toys,2940
+hbw|ttd - leisure|ttd - leisure,74636
+hbw|ttd - live|end,19013
+hbw|ttd - live|f&d,1038
+hbw|ttd - live|home,521
+hbw|ttd - live|retail,1596
+hbw|ttd - live|ttd - live,6093
+hbw|unknown|f&d,124
+hbw|unknown|hotel,27
+hbw|unknown|tech & toys,57
+hbw|unknown|tour,5
+hbw|unknown|ttd,70
+hbw|unknown|ttd - leisure,261
+health & beauty|charity|ttd - leisure,1
+health & beauty|f&d|h&a,675
+health & beauty|f&d|hbw,1777
+health & beauty|f&d|softlines,1138
+health & beauty|h&a|end,5281
+health & beauty|h&a|hbw,1220
+health & beauty|h&a|ttd - leisure,961
+health & beauty|h&a|unknown,21
+health & beauty|hardlines|charity,3
+health & beauty|hardlines|h&a,686
+health & beauty|hardlines|hardlines,19780
+health & beauty|hardlines|multi,3
+health & beauty|hardlines|retail,2822
+health & beauty|hardlines|softlines,5016
+health & beauty|hardlines|unknown,51
+health & beauty|hbw|end,16558
+health & beauty|hbw|tech & toys,1435
+health & beauty|hbw|tour,38
+health & beauty|health & beauty|ttd,4731
+health & beauty|health & beauty|unknown,350
+health & beauty|home|home,12809
+health & beauty|home|hotel,254
+health & beauty|hotel|health & beauty,311
+health & beauty|hotel|retail,371
+health & beauty|hotel|tech & toys,198
+health & beauty|hotel|ttd,187
+health & beauty|hotel|ttd - leisure,478
+health & beauty|multi|tech & toys,2
+health & beauty|retail|hbw,2781
+health & beauty|retail|multi,1
+health & beauty|retail|retail,13830
+health & beauty|retail|tech & toys,2022
+health & beauty|retail|ttd - live,405
+health & beauty|softlines|home,4420
+health & beauty|softlines|retail,3265
+health & beauty|softlines|tech & toys,3715
+health & beauty|softlines|ttd - leisure,1601
+health & beauty|tech & toys|end,9833
+health & beauty|tech & toys|charity,1
+health & beauty|tech & toys|hotel,249
+health & beauty|tech & toys|ttd,718
+health & beauty|tech & toys|ttd - leisure,1293
+health & beauty|tech & toys|ttd - live,253
+health & beauty|tour|end,162
+health & beauty|tour|multi,1
+health & beauty|tour|tech & toys,15
+health & beauty|tour|ttd - leisure,25
+health & beauty|ttd|retail,1834
+health & beauty|ttd|ttd - leisure,2284
+health & beauty|ttd|unknown,58
+health & beauty|ttd - leisure|end,15016
+health & beauty|ttd - leisure|f&d,1012
+health & beauty|ttd - leisure|hbw,1783
+health & beauty|ttd - leisure|hotel,279
+health & beauty|ttd - leisure|retail,1832
+health & beauty|ttd - leisure|tour,25
+health & beauty|ttd - leisure|ttd - leisure,10471
+health & beauty|ttd - leisure|unknown,1
+health & beauty|ttd - live|hotel,51
+health & beauty|ttd - live|tech & toys,188
+health & beauty|ttd - live|tour,6
+health & beauty|unknown|h&a,18
+health & beauty|unknown|softlines,83
+health & beauty|unknown|tech & toys,41
+health & beauty|unknown|ttd - leisure,46
+home|f&d|hardlines,1076
+home|f&d|hbw,1287
+home|f&d|retail,1695
+home|h&a|f&d,508
+home|h&a|home,1278
+home|h&a|multi,1
+home|h&a|softlines,648
+home|h&a|tour,12
+home|h&a|ttd,264
+home|h&a|unknown,10
+home|hardlines|h&a,755
+home|hardlines|hardlines,20399
+home|hardlines|home,12646
+home|hardlines|hotel,285
+home|hardlines|tech & toys,5211
+home|hardlines|tour,33
+home|hbw|hbw,10939
+home|hbw|health & beauty,855
+home|hbw|softlines,1710
+home|hbw|ttd,720
+home|hbw|ttd - leisure,2003
+home|hbw|ttd - live,369
+home|health & beauty|h&a,550
+home|health & beauty|hardlines,3380
+home|health & beauty|hbw,1603
+home|health & beauty|tech & toys,2529
+home|health & beauty|tour,16
+home|health & beauty|unknown,72
+home|home|h&a,3568
+home|home|hbw,9146
+home|home|multi,9
+home|home|softlines,21849
+home|home|tour,139
+home|home|ttd - leisure,7956
+home|hotel|h&a,94
+home|hotel|hardlines,233
+home|hotel|home,417
+home|multi|home,6
+home|multi|retail,8
+home|retail|charity,2
+home|retail|f&d,1344
+home|retail|hbw,2203
+home|retail|hotel,324
+home|retail|tech & toys,2113
+home|retail|ttd - leisure,2270
+home|retail|unknown,43
+home|softlines|f&d,1124
+home|softlines|retail,3818
+home|softlines|ttd - leisure,1552
+home|tech & toys|h&a,821
+home|tech & toys|home,10365
+home|tech & toys|tech & toys,17273
+home|tech & toys|ttd,766
+home|tech & toys|ttd - live,381
+home|tech & toys|unknown,68
+home|tour|end,176
+home|tour|retail,24
+home|tour|softlines,26
+home|ttd|end,2541
+home|ttd|h&a,437
+home|ttd|home,1681
+home|ttd|multi,4
+home|ttd|softlines,919
+home|ttd - leisure|end,14504
+home|ttd - leisure|h&a,488
+home|ttd - leisure|retail,1796
+home|ttd - leisure|tour,16
+home|ttd - live|f&d,132
+home|unknown|retail,49
+hotel|f&d|hardlines,380
+hotel|f&d|hotel,1461
+hotel|f&d|softlines,444
+hotel|f&d|ttd - leisure,1864
+hotel|f&d|ttd - live,291
+hotel|h&a|hardlines,225
+hotel|hardlines|hardlines,2817
+hotel|hardlines|hbw,299
+hotel|hardlines|tech & toys,594
+hotel|hardlines|ttd - live,91
+hotel|hbw|h&a,629
+hotel|hbw|health & beauty,320
+hotel|hbw|tech & toys,396
+hotel|health & beauty|health & beauty,1234
+hotel|health & beauty|hotel,361
+hotel|health & beauty|tour,6
+hotel|health & beauty|unknown,6
+hotel|home|end,2774
+hotel|home|h&a,142
+hotel|hotel|end,61115
+hotel|hotel|f&d,3892
+hotel|hotel|hotel,54147
+hotel|hotel|tech & toys,1869
+hotel|hotel|tour,237
+hotel|hotel|ttd,3642
+hotel|hotel|ttd - live,1253
+hotel|multi|hardlines,1
+hotel|multi|tech & toys,1
+hotel|retail|ttd - live,313
+hotel|softlines|charity,1
+hotel|softlines|home,608
+hotel|softlines|tour,10
+hotel|softlines|unknown,8
+hotel|tech & toys|end,3002
+hotel|tech & toys|f&d,192
+hotel|tech & toys|h&a,140
+hotel|tech & toys|retail,518
+hotel|tech & toys|tour,16
+hotel|tech & toys|ttd - live,83
+hotel|tour|f&d,22
+hotel|tour|hbw,43
+hotel|tour|health & beauty,7
+hotel|tour|ttd - leisure,51
+hotel|ttd|end,3796
+hotel|ttd|retail,1336
+hotel|ttd|softlines,547
+hotel|ttd|tour,37
+hotel|ttd - leisure|hbw,1782
+hotel|ttd - live|retail,328
+hotel|unknown|home,8
+hotel|unknown|ttd - leisure,16
+multi|f&d|f&d,25
+multi|f&d|ttd - leisure,10
+multi|f&d|ttd - live,2
+multi|h&a|h&a,72
+multi|h&a|ttd - leisure,10
+multi|hardlines|retail,6
+multi|hardlines|tech & toys,4
+multi|hbw|f&d,5
+multi|hbw|health & beauty,3
+multi|hbw|softlines,1
+multi|hbw|ttd - leisure,13
+multi|health & beauty|end,21
+multi|health & beauty|softlines,5
+multi|home|h&a,1
+multi|home|health & beauty,1
+multi|home|multi,1
+multi|home|retail,3
+multi|hotel|end,11
+multi|hotel|retail,2
+multi|multi|health & beauty,7
+multi|multi|multi,120
+multi|multi|ttd,11
+multi|retail|multi,1
+multi|retail|retail,39
+multi|softlines|end,28
+multi|softlines|h&a,2
+multi|softlines|multi,3
+multi|softlines|ttd - live,3
+multi|ttd|home,1
+multi|ttd|multi,2
+multi|ttd|ttd,17
+multi|ttd|ttd - leisure,4
+multi|ttd|ttd - live,5
+multi|ttd - leisure|softlines,4
+multi|ttd - live|h&a,1
+multi|ttd - live|hardlines,3
+multi|ttd - live|home,1
+retail|charity|hbw,1
+retail|f&d|end,44737
+retail|f&d|charity,2
+retail|f&d|multi,10
+retail|f&d|retail,18064
+retail|f&d|ttd,3560
+retail|h&a|end,24056
+retail|h&a|f&d,2763
+retail|h&a|h&a,13402
+retail|h&a|hardlines,1668
+retail|h&a|home,1275
+retail|h&a|softlines,1575
+retail|h&a|tech & toys,1292
+retail|h&a|tour,43
+retail|h&a|ttd - live,616
+retail|hardlines|end,33394
+retail|hardlines|charity,1
+retail|hardlines|f&d,1629
+retail|hardlines|hbw,2668
+retail|hardlines|health & beauty,1674
+retail|hardlines|tech & toys,5090
+retail|hardlines|ttd - leisure,3000
+retail|hbw|retail,20362
+retail|hbw|unknown,128
+retail|health & beauty|multi,5
+retail|health & beauty|retail,7189
+retail|health & beauty|tech & toys,2456
+retail|health & beauty|tour,32
+retail|home|h&a,921
+retail|home|hotel,403
+retail|home|tech & toys,4831
+retail|home|tour,33
+retail|home|ttd,848
+retail|hotel|hbw,1139
+retail|hotel|health & beauty,242
+retail|multi|h&a,23
+retail|multi|tech & toys,3
+retail|multi|ttd - leisure,22
+retail|retail|charity,9
+retail|retail|hardlines,22373
+retail|retail|health & beauty,9781
+retail|retail|hotel,4990
+retail|retail|multi,39
+retail|retail|softlines,25470
+retail|retail|tech & toys,18713
+retail|retail|ttd,13075
+retail|softlines|charity,1
+retail|softlines|h&a,993
+retail|softlines|health & beauty,3035
+retail|softlines|tour,39
+retail|softlines|ttd - leisure,3387
+retail|softlines|unknown,81
+retail|tech & toys|h&a,1001
+retail|tech & toys|softlines,5588
+retail|tech & toys|tour,23
+retail|tour|health & beauty,18
+retail|tour|tour,583
+retail|tour|ttd - live,16
+retail|ttd|charity,2
+retail|ttd|home,1777
+retail|ttd|retail,13055
+retail|ttd|tech & toys,1941
+retail|ttd|tour,68
+retail|ttd|ttd - leisure,8524
+retail|ttd|ttd - live,1346
+retail|ttd - leisure|h&a,2737
+retail|ttd - leisure|hardlines,4388
+retail|ttd - leisure|hotel,1388
+retail|ttd - leisure|retail,18627
+retail|ttd - leisure|tech & toys,3210
+retail|ttd - leisure|tour,74
+retail|ttd - live|home,435
+retail|ttd - live|tech & toys,504
+retail|ttd - live|ttd - leisure,2547
+retail|unknown|home,68
+retail|unknown|ttd - leisure,92
+retail|unknown|unknown,348
+softlines|charity|end,4
+softlines|charity|charity,2
+softlines|charity|home,1
+softlines|f&d|end,8428
+softlines|f&d|h&a,643
+softlines|f&d|ttd,1008
+softlines|f&d|ttd - live,271
+softlines|h&a|hotel,103
+softlines|h&a|retail,980
+softlines|h&a|softlines,2065
+softlines|h&a|ttd - leisure,879
+softlines|h&a|unknown,17
+softlines|hardlines|hardlines,20836
+softlines|hardlines|home,6113
+softlines|hardlines|hotel,285
+softlines|hbw|f&d,1454
+softlines|hbw|hbw,12630
+softlines|hbw|multi,3
+softlines|hbw|ttd,1011
+softlines|health & beauty|end,8426
+softlines|health & beauty|multi,7
+softlines|health & beauty|softlines,14344
+softlines|health & beauty|ttd - leisure,1286
+softlines|home|tour,35
+softlines|hotel|end,2396
+softlines|hotel|h&a,119
+softlines|hotel|ttd,198
+softlines|multi|end,26
+softlines|multi|health & beauty,4
+softlines|multi|softlines,24
+softlines|retail|multi,6
+softlines|retail|retail,19734
+softlines|softlines|hbw,15346
+softlines|softlines|health & beauty,18473
+softlines|softlines|softlines,321798
+softlines|softlines|tech & toys,25211
+softlines|softlines|unknown,583
+softlines|tech & toys|end,16539
+softlines|tech & toys|h&a,645
+softlines|tech & toys|home,5013
+softlines|tech & toys|multi,3
+softlines|tech & toys|ttd - leisure,1572
+softlines|tech & toys|ttd - live,289
+softlines|tour|hbw,25
+softlines|tour|tech & toys,19
+softlines|tour|tour,211
+softlines|ttd|hardlines,940
+softlines|ttd|health & beauty,816
+softlines|ttd|hotel,323
+softlines|ttd|ttd - leisure,2008
+softlines|ttd - leisure|health & beauty,293
+softlines|ttd - leisure|hotel,318
+softlines|ttd - leisure|ttd - leisure,11093
+softlines|ttd - leisure|ttd - live,681
+softlines|ttd - leisure|unknown,3
+softlines|ttd - live|home,200
+softlines|ttd - live|hotel,56
+softlines|ttd - live|tech & toys,170
+softlines|ttd - live|ttd - leisure,611
+softlines|ttd - live|ttd - live,1127
+softlines|unknown|f&d,23
+softlines|unknown|softlines,254
+softlines|unknown|ttd - live,7
+tech & toys|charity|charity,2
+tech & toys|f&d|end,8191
+tech & toys|f&d|hardlines,1006
+tech & toys|f&d|hbw,1280
+tech & toys|f&d|home,843
+tech & toys|h&a|ttd - leisure,928
+tech & toys|hardlines|f&d,896
+tech & toys|hardlines|h&a,758
+tech & toys|hardlines|ttd,543
+tech & toys|hbw|tech & toys,3011
+tech & toys|hbw|unknown,40
+tech & toys|health & beauty|end,6531
+tech & toys|health & beauty|hotel,218
+tech & toys|health & beauty|softlines,3543
+tech & toys|health & beauty|tech & toys,6568
+tech & toys|home|end,21544
+tech & toys|home|hotel,356
+tech & toys|home|unknown,52
+tech & toys|multi|home,4
+tech & toys|multi|ttd - live,2
+tech & toys|retail|hbw,2019
+tech & toys|retail|tech & toys,5811
+tech & toys|retail|ttd - leisure,2656
+tech & toys|softlines|f&d,1010
+tech & toys|softlines|hardlines,6355
+tech & toys|softlines|hbw,1545
+tech & toys|softlines|home,5011
+tech & toys|softlines|retail,3362
+tech & toys|softlines|tech & toys,12249
+tech & toys|softlines|tour,14
+tech & toys|tech & toys|f&d,5922
+tech & toys|tech & toys|health & beauty,8368
+tech & toys|tech & toys|home,15943
+tech & toys|tech & toys|tour,138
+tech & toys|tour|end,190
+tech & toys|tour|multi,1
+tech & toys|tour|retail,23
+tech & toys|tour|ttd,10
+tech & toys|tour|ttd - leisure,31
+tech & toys|ttd - leisure|end,18388
+tech & toys|ttd - leisure|f&d,1021
+tech & toys|ttd - leisure|health & beauty,236
+tech & toys|ttd - leisure|tour,11
+tech & toys|ttd - leisure|ttd - live,621
+tech & toys|ttd - live|hardlines,269
+tech & toys|ttd - live|retail,355
+tech & toys|ttd - live|softlines,219
+tech & toys|unknown|f&d,26
+tech & toys|unknown|hbw,49
+tour|f&d|ttd,36
+tour|h&a|f&d,29
+tour|h&a|hardlines,16
+tour|h&a|hbw,75
+tour|h&a|retail,33
+tour|h&a|tour,24
+tour|h&a|ttd - live,16
+tour|hardlines|hbw,34
+tour|hardlines|hotel,13
+tour|hardlines|retail,32
+tour|hardlines|softlines,48
+tour|hardlines|tour,12
+tour|hardlines|ttd,6
+tour|hardlines|ttd - live,12
+tour|hbw|h&a,55
+tour|hbw|health & beauty,42
+tour|hbw|hotel,46
+tour|health & beauty|ttd - leisure,20
+tour|home|end,204
+tour|home|f&d,20
+tour|home|hardlines,59
+tour|home|hbw,32
+tour|home|health & beauty,24
+tour|home|home,228
+tour|home|ttd - live,9
+tour|hotel|f&d,26
+tour|hotel|h&a,21
+tour|hotel|hardlines,17
+tour|hotel|hotel,206
+tour|retail|hardlines,60
+tour|retail|health & beauty,10
+tour|retail|ttd,30
+tour|retail|unknown,1
+tour|softlines|f&d,11
+tour|softlines|softlines,376
+tour|softlines|tech & toys,44
+tour|softlines|ttd,14
+tour|tech & toys|f&d,11
+tour|tech & toys|health & beauty,9
+tour|tech & toys|unknown,1
+tour|tour|health & beauty,145
+tour|tour|tech & toys,196
+tour|tour|ttd,367
+tour|ttd|f&d,53
+tour|ttd|ttd - live,22
+tour|ttd - leisure|h&a,38
+tour|ttd - leisure|hardlines,40
+tour|ttd - leisure|retail,79
+tour|ttd - leisure|ttd - live,64
+tour|ttd - live|end,232
+tour|ttd - live|hbw,26
+tour|ttd - live|home,11
+tour|ttd - live|tech & toys,7
+tour|unknown|softlines,3
+ttd|charity|end,23
+ttd|charity|retail,4
+ttd|f&d|home,2843
+ttd|f&d|softlines,3754
+ttd|f&d|tech & toys,3165
+ttd|f&d|ttd - live,3267
+ttd|f&d|unknown,135
+ttd|h&a|charity,4
+ttd|h&a|f&d,4134
+ttd|h&a|ttd - live,1508
+ttd|h&a|unknown,59
+ttd|hardlines|end,17491
+ttd|hardlines|f&d,1558
+ttd|hardlines|hbw,2279
+ttd|hardlines|retail,3156
+ttd|hardlines|tour,33
+ttd|hardlines|ttd - live,797
+ttd|hbw|charity,2
+ttd|hbw|tour,208
+ttd|hbw|ttd - leisure,27259
+ttd|hbw|unknown,247
+ttd|health & beauty|f&d,1837
+ttd|health & beauty|home,2303
+ttd|health & beauty|multi,2
+ttd|health & beauty|ttd - leisure,4487
+ttd|health & beauty|ttd - live,760
+ttd|health & beauty|unknown,72
+ttd|home|hardlines,3148
+ttd|home|home,12663
+ttd|home|multi,6
+ttd|home|ttd,2476
+ttd|hotel|home,565
+ttd|hotel|multi,7
+ttd|hotel|unknown,12
+ttd|multi|end,71
+ttd|multi|f&d,10
+ttd|multi|health & beauty,4
+ttd|retail|charity,3
+ttd|retail|hotel,1982
+ttd|retail|tech & toys,4458
+ttd|retail|unknown,122
+ttd|softlines|end,14823
+ttd|softlines|health & beauty,2411
+ttd|softlines|multi,6
+ttd|softlines|softlines,25489
+ttd|softlines|ttd - live,956
+ttd|softlines|unknown,84
+ttd|tech & toys|end,15231
+ttd|tech & toys|h&a,1089
+ttd|tech & toys|softlines,3316
+ttd|tech & toys|tour,45
+ttd|tour|hardlines,42
+ttd|tour|hotel,52
+ttd|tour|multi,2
+ttd|tour|tour,896
+ttd|ttd|end,209421
+ttd|ttd|retail,44638
+ttd|ttd|ttd - leisure,106288
+ttd|ttd - leisure|home,3692
+ttd|ttd - live|end,26742
+ttd|ttd - live|f&d,1584
+ttd|ttd - live|hbw,2351
+ttd|ttd - live|softlines,1011
+ttd|unknown|home,66
+ttd|unknown|tech & toys,82
+ttd|unknown|ttd - live,65
+ttd - leisure|charity|charity,4
+ttd - leisure|f&d|tour,43
+ttd - leisure|h&a|end,28967
+ttd - leisure|h&a|health & beauty,153
+ttd - leisure|h&a|tech & toys,763
+ttd - leisure|h&a|ttd - live,662
+ttd - leisure|hardlines|hotel,285
+ttd - leisure|hardlines|retail,2910
+ttd - leisure|hbw|h&a,2346
+ttd - leisure|hbw|ttd - leisure,18757
+ttd - leisure|health & beauty|softlines,769
+ttd - leisure|home|softlines,2742
+ttd - leisure|hotel|end,14023
+ttd - leisure|hotel|hbw,879
+ttd - leisure|multi|h&a,4
+ttd - leisure|multi|hbw,5
+ttd - leisure|multi|home,1
+ttd - leisure|multi|multi,2
+ttd - leisure|multi|softlines,6
+ttd - leisure|retail|h&a,1646
+ttd - leisure|retail|hardlines,3966
+ttd - leisure|retail|hotel,957
+ttd - leisure|retail|retail,32121
+ttd - leisure|retail|softlines,3428
+ttd - leisure|retail|tour,50
+ttd - leisure|softlines|unknown,4
+ttd - leisure|tech & toys|charity,1
+ttd - leisure|tech & toys|hardlines,3300
+ttd - leisure|tech & toys|hbw,1167
+ttd - leisure|tour|end,653
+ttd - leisure|tour|health & beauty,2
+ttd - leisure|tour|retail,36
+ttd - leisure|ttd - leisure|f&d,27486
+ttd - leisure|ttd - live|h&a,635
+ttd - leisure|ttd - live|hardlines,998
+ttd - leisure|ttd - live|ttd - leisure,8358
+ttd - live|f&d|health & beauty,43
+ttd - live|f&d|home,167
+ttd - live|f&d|tour,8
+ttd - live|h&a|hotel,49
+ttd - live|h&a|tech & toys,113
+ttd - live|hardlines|retail,412
+ttd - live|hardlines|softlines,673
+ttd - live|hardlines|tour,1
+ttd - live|hardlines|ttd - leisure,456
+ttd - live|hbw|end,10756
+ttd - live|hbw|retail,690
+ttd - live|health & beauty|f&d,55
+ttd - live|health & beauty|home,92
+ttd - live|health & beauty|multi,2
+ttd - live|health & beauty|retail,105
+ttd - live|health & beauty|softlines,109
+ttd - live|home|health & beauty,59
+ttd - live|home|hotel,34
+ttd - live|home|ttd - leisure,264
+ttd - live|hotel|end,1979
+ttd - live|hotel|f&d,87
+ttd - live|hotel|hardlines,83
+ttd - live|hotel|health & beauty,8
+ttd - live|hotel|home,49
+ttd - live|hotel|softlines,70
+ttd - live|multi|h&a,2
+ttd - live|multi|ttd - live,1
+ttd - live|retail|health & beauty,68
+ttd - live|retail|retail,4157
+ttd - live|softlines|health & beauty,93
+ttd - live|tech & toys|retail,314
+ttd - live|tech & toys|softlines,458
+ttd - live|tour|retail,8
+ttd - live|tour|tech & toys,3
+ttd - live|ttd - leisure|softlines,748
+ttd - live|ttd - live|h&a,897
+ttd - live|ttd - live|hardlines,1375
+ttd - live|ttd - live|hotel,596
+ttd - live|ttd - live|multi,1
+ttd - live|ttd - live|retail,2439
+ttd - live|ttd - live|tour,38
+ttd - live|unknown|end,4
+ttd - live|unknown|hardlines,2
+ttd - live|unknown|tech & toys,2
+ttd - live|unknown|ttd - leisure,2
+ttd - live|unknown|unknown,2
+unknown|charity|ttd,1
+unknown|charity|ttd - leisure,1
+unknown|f&d|hbw,124
+unknown|f&d|ttd,16
+unknown|f&d|ttd - leisure,84
+unknown|h&a|end,242
+unknown|h&a|f&d,17
+unknown|h&a|hbw,87
+unknown|h&a|multi,1
+unknown|h&a|softlines,26
+unknown|h&a|ttd - live,7
+unknown|hardlines|h&a,12
+unknown|hardlines|hotel,4
+unknown|hardlines|retail,61
+unknown|hardlines|tech & toys,63
+unknown|hardlines|unknown,2
+unknown|hbw|h&a,87
+unknown|hbw|hardlines,94
+unknown|hbw|tour,5
+unknown|health & beauty|retail,43
+unknown|health & beauty|tech & toys,53
+unknown|home|end,282
+unknown|home|softlines,76
+unknown|home|ttd - live,8
+unknown|hotel|end,66
+unknown|hotel|f&d,5
+unknown|hotel|hardlines,14
+unknown|hotel|home,4
+unknown|hotel|unknown,4
+unknown|retail|end,641
+unknown|retail|f&d,42
+unknown|retail|h&a,29
+unknown|retail|softlines,104
+unknown|retail|tour,2
+unknown|retail|ttd - leisure,104
+unknown|retail|ttd - live,23
+unknown|softlines|f&d,25
+unknown|softlines|health & beauty,59
+unknown|softlines|ttd - live,7
+unknown|tech & toys|hbw,43
+unknown|tech & toys|health & beauty,30
+unknown|tech & toys|home,57
+unknown|tour|softlines,1
+unknown|ttd|softlines,24
+unknown|ttd|ttd - live,15
+unknown|ttd - leisure|hardlines,59
+unknown|ttd - leisure|health & beauty,18
+unknown|ttd - leisure|softlines,49
+unknown|ttd - leisure|tech & toys,48
+unknown|ttd - leisure|tour,1
+unknown|unknown|f&d,156
+unknown|unknown|health & beauty,183
+unknown|unknown|home,204
+unknown|unknown|tech & toys,186
+charity|charity|hardlines,3
+charity|h&a|h&a,3
+charity|hardlines|charity,1
+charity|hardlines|hbw,1
+charity|hbw|end,17
+charity|hotel|end,1
+charity|retail|tour,1
+charity|retail|ttd,2
+charity|softlines|end,7
+charity|softlines|retail,1
+charity|tech & toys|end,2
+charity|ttd|charity,3
+charity|ttd|h&a,1
+charity|ttd|home,1
+charity|ttd|retail,2
+charity|ttd|softlines,1
+charity|ttd|unknown,1
+charity|ttd - leisure|end,39
+charity|ttd - leisure|charity,1
+charity|ttd - live|retail,1
+f&d|charity|charity,2
+f&d|charity|hardlines,5
+f&d|charity|hbw,4
+f&d|charity|home,1
+f&d|charity|retail,5
+f&d|charity|ttd - leisure,7
+f&d|f&d|charity,10
+f&d|f&d|hardlines,14141
+f&d|f&d|home,10890
+f&d|f&d|retail,43210
+f&d|f&d|softlines,14261
+f&d|f&d|ttd - leisure,50270
+f&d|f&d|ttd - live,7078
+f&d|h&a|end,33061
+f&d|h&a|hardlines,1847
+f&d|h&a|health & beauty,641
+f&d|h&a|softlines,1576
+f&d|h&a|tech & toys,1344
+f&d|h&a|tour,48
+f&d|h&a|ttd - leisure,5647
+f&d|hardlines|hardlines,17345
+f&d|hardlines|hbw,2376
+f&d|hbw|end,74353
+f&d|hbw|hardlines,3904
+f&d|hbw|multi,7
+f&d|hbw|retail,10961
+f&d|health & beauty|end,8235
+f&d|health & beauty|f&d,5199
+f&d|health & beauty|ttd - leisure,1940
+f&d|home|f&d,5322
+f&d|home|hardlines,3597
+f&d|home|home,13937
+f&d|home|multi,2
+f&d|home|ttd,735
+f&d|hotel|f&d,3087
+f&d|hotel|h&a,500
+f&d|hotel|hbw,1221
+f&d|hotel|multi,2
+f&d|hotel|softlines,487
+f&d|hotel|tech & toys,426
+f&d|hotel|tour,22
+f&d|hotel|ttd - leisure,2262
+f&d|multi|retail,12
+f&d|multi|softlines,7
+f&d|retail|health & beauty,2129
+f&d|retail|multi,11
+f&d|retail|ttd - leisure,13817
+f&d|softlines|h&a,984
+f&d|softlines|home,3351
+f&d|softlines|softlines,25729
+f&d|softlines|tour,37
+f&d|softlines|ttd - live,504
+f&d|tech & toys|hbw,1940
+f&d|tech & toys|home,3082
+f&d|tech & toys|tour,23
+f&d|tech & toys|ttd,876
+f&d|tech & toys|ttd - leisure,2653
+f&d|tech & toys|ttd - live,413
+f&d|tour|end,505
+f&d|tour|h&a,45
+f&d|tour|hardlines,21
+f&d|tour|health & beauty,13
+f&d|tour|retail,67
+f&d|ttd|f&d,26514
+f&d|ttd|h&a,3401
+f&d|ttd|retail,8255
+f&d|ttd|tour,103
+f&d|ttd|ttd,31337
+f&d|ttd - leisure|hardlines,4117
+f&d|ttd - leisure|home,2581
+f&d|ttd - leisure|hotel,1757
+f&d|ttd - leisure|retail,11372
+f&d|ttd - leisure|softlines,3387
+f&d|ttd - leisure|unknown,13
+f&d|ttd - live|hbw,1449
+f&d|unknown|h&a,49
+f&d|unknown|hardlines,67
+f&d|unknown|home,52
+f&d|unknown|tech & toys,58
+f&d|unknown|tour,1
+h&a|charity|retail,1
+h&a|charity|softlines,1
+h&a|charity|ttd,2
+h&a|f&d|f&d,19428
+h&a|f&d|hbw,4826
+h&a|f&d|hotel,495
+h&a|h&a|end,199186
+h&a|h&a|hardlines,7347
+h&a|h&a|hbw,21545
+h&a|h&a|tour,201
+h&a|h&a|ttd,5842
+h&a|h&a|ttd - leisure,21086
+h&a|hardlines|hotel,149
+h&a|hbw|hotel,702
+h&a|hbw|tech & toys,1538
+h&a|hbw|tour,67
+h&a|health & beauty|end,3664
+h&a|health & beauty|home,909
+h&a|health & beauty|hotel,132
+h&a|home|hardlines,2008
+h&a|home|home,6973
+h&a|home|tech & toys,1808
+h&a|home|ttd,335
+h&a|hotel|hbw,638
+h&a|hotel|hotel,2890
+h&a|hotel|tech & toys,163
+h&a|hotel|unknown,8
+h&a|multi|h&a,68
+h&a|multi|health & beauty,2
+h&a|retail|home,1722
+h&a|retail|ttd - live,753
+h&a|softlines|hardlines,1932
+h&a|softlines|home,1563
+h&a|softlines|multi,1
+h&a|softlines|retail,1573
+h&a|softlines|ttd - live,225
+h&a|tech & toys|retail,1407
+h&a|tech & toys|softlines,1603
+h&a|tech & toys|unknown,20
+h&a|tour|h&a,130
+h&a|tour|hardlines,19
+h&a|tour|hbw,56
+h&a|tour|softlines,11
+h&a|tour|tech & toys,9
+h&a|ttd|hardlines,796
+h&a|ttd|hotel,501
+h&a|ttd - leisure|hotel,700
+h&a|ttd - leisure|retail,3998
+h&a|ttd - leisure|softlines,1370
+h&a|ttd - leisure|ttd - live,1459
+h&a|ttd - live|f&d,483
+h&a|ttd - live|home,186
+h&a|ttd - live|tech & toys,225
+h&a|unknown|softlines,38
+hardlines|charity|home,1
+hardlines|charity|ttd,2
+hardlines|f&d|charity,1
+hardlines|f&d|h&a,620
+hardlines|f&d|retail,1771
+hardlines|f&d|tech & toys,868
+hardlines|h&a|charity,1
+hardlines|h&a|home,629
+hardlines|h&a|hotel,111
+hardlines|h&a|tour,8
+hardlines|h&a|ttd - leisure,778
+hardlines|hardlines|hardlines,123194
+hardlines|hardlines|hbw,8166
+hardlines|hardlines|tech & toys,16530
+hardlines|hbw|f&d,1138
+hardlines|hbw|tour,24
+hardlines|hbw|ttd - leisure,1840
+hardlines|hbw|unknown,31
+hardlines|health & beauty|hardlines,5621
+hardlines|health & beauty|hbw,1150
+hardlines|health & beauty|hotel,146
+hardlines|health & beauty|tech & toys,2028
+hardlines|home|softlines,6943
+hardlines|home|tech & toys,5308
+hardlines|home|tour,23
+hardlines|hotel|h&a,96
+hardlines|hotel|hardlines,441
+hardlines|hotel|home,192
+hardlines|hotel|tech & toys,179
+hardlines|multi|hbw,4
+hardlines|retail|end,25072
+hardlines|retail|charity,1
+hardlines|retail|h&a,822
+hardlines|retail|retail,15586
+hardlines|retail|tech & toys,2363
+hardlines|retail|ttd,701
+hardlines|retail|ttd - live,391
+hardlines|softlines|end,20616
+hardlines|softlines|softlines,31762
+hardlines|softlines|tour,26
+hardlines|tech & toys|hardlines,12173
+hardlines|tech & toys|hbw,1349
+hardlines|tech & toys|home,5077
+hardlines|tech & toys|hotel,257
+hardlines|tech & toys|retail,2809
+hardlines|tech & toys|tech & toys,17042
+hardlines|tech & toys|ttd,611
+hardlines|tour|hardlines,38
+hardlines|tour|hbw,25
+hardlines|tour|home,17
+hardlines|tour|retail,13
+hardlines|tour|unknown,1
+hardlines|ttd|end,2469
+hardlines|ttd|f&d,953
+hardlines|ttd|hardlines,1747
+hardlines|ttd|home,726
+hardlines|ttd|ttd,3904
+hardlines|ttd|ttd - leisure,1474
+hardlines|ttd - leisure|charity,1
+hardlines|ttd - leisure|f&d,877
+hardlines|ttd - leisure|h&a,491
+hardlines|ttd - leisure|hardlines,2746
+hardlines|ttd - leisure|health & beauty,198
+hardlines|ttd - leisure|multi,2
+hardlines|ttd - leisure|tour,18
+hardlines|ttd - leisure|ttd - leisure,9681
+hardlines|ttd - live|hardlines,497
+hardlines|ttd - live|hbw,226
+hardlines|ttd - live|home,173
+hardlines|ttd - live|tour,8
+hardlines|unknown|health & beauty,43
+hardlines|unknown|softlines,55
+hardlines|unknown|ttd - leisure,26
+hbw|charity|end,11
+hbw|charity|charity,5
+hbw|charity|hbw,10
+hbw|f&d|end,50727
+hbw|f&d|charity,1
+hbw|f&d|f&d,38416
+hbw|f&d|hardlines,2991
+hbw|f&d|hbw,31644
+hbw|f&d|multi,3
+hbw|f&d|tour,89
+hbw|h&a|end,39698
+hbw|h&a|hbw,20795
+hbw|h&a|tour,79
+hbw|h&a|ttd - leisure,6564
+hbw|hardlines|ttd,706
+hbw|hbw|end,593959
+hbw|hbw|hotel,8499
+hbw|hbw|multi,47
+hbw|hbw|softlines,22693
+hbw|hbw|tech & toys,15311
+hbw|hbw|unknown,1366
+hbw|health & beauty|multi,10
+hbw|home|hardlines,4637
+hbw|home|tech & toys,3739
+hbw|hotel|retail,1272
+hbw|hotel|ttd - leisure,2480
+hbw|multi|home,2
+hbw|retail|retail,46965
+hbw|retail|ttd - leisure,12160
+hbw|retail|unknown,140
+hbw|softlines|end,21022
+hbw|softlines|f&d,1754
+hbw|softlines|hbw,10158
+hbw|softlines|home,4184
+hbw|softlines|multi,4
+hbw|softlines|ttd,1177
+hbw|tech & toys|hardlines,3585
+hbw|tech & toys|home,3713
+hbw|tech & toys|retail,3000
+hbw|tech & toys|softlines,3615
+hbw|tech & toys|tour,39
+hbw|tech & toys|ttd - leisure,2430
+hbw|tech & toys|ttd - live,413
+hbw|tour|f&d,59
+hbw|tour|health & beauty,29
+hbw|tour|tech & toys,37
+hbw|tour|ttd - leisure,190
+hbw|ttd|hardlines,1921
+hbw|ttd|hotel,1402
+hbw|ttd|softlines,2648
+hbw|ttd - leisure|hardlines,4726
+hbw|ttd - leisure|hbw,35601
+hbw|ttd - leisure|health & beauty,1070
+hbw|ttd - leisure|hotel,1982
+hbw|ttd - live|tour,31
+hbw|ttd - live|ttd - leisure,4010
+hbw|unknown|hardlines,97
+hbw|unknown|hbw,1221
+hbw|unknown|health & beauty,76
+hbw|unknown|retail,183
+hbw|unknown|softlines,111
+hbw|unknown|unknown,610
+health & beauty|charity|h&a,1
+health & beauty|charity|home,1
+health & beauty|f&d|end,7266
+health & beauty|f&d|hardlines,1550
+health & beauty|f&d|retail,1881
+health & beauty|f&d|tech & toys,836
+health & beauty|f&d|ttd - live,244
+health & beauty|h&a|h&a,3730
+health & beauty|h&a|softlines,649
+health & beauty|h&a|tour,22
+health & beauty|hardlines|f&d,935
+health & beauty|hardlines|hbw,2040
+health & beauty|hardlines|ttd - leisure,1634
+health & beauty|hbw|h&a,1252
+health & beauty|hbw|hbw,17327
+health & beauty|hbw|retail,3037
+health & beauty|health & beauty|end,56822
+health & beauty|health & beauty|hardlines,20173
+health & beauty|health & beauty|home,11542
+health & beauty|health & beauty|retail,11530
+health & beauty|health & beauty|softlines,16965
+health & beauty|health & beauty|ttd - leisure,7566
+health & beauty|home|multi,4
+health & beauty|home|retail,2476
+health & beauty|home|softlines,4918
+health & beauty|home|tech & toys,3251
+health & beauty|home|tour,17
+health & beauty|home|ttd,754
+health & beauty|home|ttd - live,268
+health & beauty|hotel|hbw,340
+health & beauty|hotel|hotel,1645
+health & beauty|multi|hbw,2
+health & beauty|multi|hotel,1
+health & beauty|multi|softlines,8
+health & beauty|multi|ttd,1
+health & beauty|multi|ttd - leisure,10
+health & beauty|retail|end,17111
+health & beauty|retail|hotel,368
+health & beauty|retail|softlines,3146
+health & beauty|retail|unknown,60
+health & beauty|softlines|hardlines,5496
+health & beauty|softlines|tour,37
+health & beauty|softlines|ttd - live,289
+health & beauty|softlines|unknown,103
+health & beauty|tech & toys|hardlines,4144
+health & beauty|tech & toys|retail,2246
+health & beauty|tech & toys|tech & toys,11837
+health & beauty|tour|home,30
+health & beauty|tour|ttd - live,5
+health & beauty|ttd|end,4066
+health & beauty|ttd|f&d,1367
+health & beauty|ttd|hbw,1988
+health & beauty|ttd|health & beauty,2487
+health & beauty|ttd|home,832
+health & beauty|ttd|hotel,318
+health & beauty|ttd|tour,29
+health & beauty|ttd - leisure|home,787
+health & beauty|ttd - leisure|ttd - live,540
+health & beauty|ttd - live|end,2492
+health & beauty|ttd - live|health & beauty,134
+health & beauty|ttd - live|home,142
+health & beauty|ttd - live|retail,306
+health & beauty|ttd - live|ttd - leisure,522
+health & beauty|unknown|hardlines,82
+health & beauty|unknown|home,42
+health & beauty|unknown|hotel,8
+home|charity|f&d,1
+home|charity|home,2
+home|charity|tech & toys,1
+home|f&d|end,7364
+home|f&d|tech & toys,799
+home|f&d|ttd - leisure,1346
+home|h&a|hardlines,761
+home|h&a|hbw,942
+home|h&a|ttd - leisure,780
+home|hardlines|f&d,1033
+home|hardlines|hbw,1772
+home|hardlines|multi,6
+home|hardlines|ttd,570
+home|hardlines|ttd - leisure,1615
+home|hbw|end,13851
+home|hbw|f&d,1158
+home|hbw|h&a,860
+home|hbw|home,3119
+home|health & beauty|charity,1
+home|health & beauty|multi,3
+home|health & beauty|softlines,3996
+home|home|charity,4
+home|home|f&d,5568
+home|hotel|end,2099
+home|hotel|hbw,282
+home|hotel|health & beauty,81
+home|hotel|hotel,1466
+home|hotel|softlines,225
+home|hotel|tech & toys,215
+home|hotel|tour,5
+home|hotel|unknown,2
+home|multi|f&d,1
+home|multi|softlines,5
+home|multi|tech & toys,2
+home|retail|h&a,836
+home|retail|hardlines,2992
+home|retail|ttd - live,427
+home|softlines|hotel,331
+home|softlines|multi,6
+home|softlines|softlines,32534
+home|softlines|ttd,747
+home|tech & toys|end,21664
+home|tech & toys|f&d,974
+home|tech & toys|hardlines,5849
+home|tech & toys|retail,3200
+home|tech & toys|softlines,5734
+home|tech & toys|tour,28
+home|tour|f&d,11
+home|tour|h&a,12
+home|tour|hardlines,22
+home|tour|hbw,22
+home|tour|tour,199
+home|tour|ttd - leisure,17
+home|tour|ttd - live,5
+home|ttd|health & beauty,571
+home|ttd|hotel,222
+home|ttd - leisure|f&d,892
+home|ttd - leisure|hbw,1425
+home|ttd - leisure|health & beauty,226
+home|ttd - leisure|softlines,1176
+home|ttd - live|hardlines,250
+home|ttd - live|health & beauty,49
+home|ttd - live|hotel,69
+home|ttd - live|ttd - leisure,481
+home|ttd - live|unknown,1
+home|unknown|end,161
+home|unknown|softlines,71
+home|unknown|tech & toys,39
+hotel|charity|end,2
+hotel|f&d|f&d,4882
+hotel|f&d|tour,31
+hotel|f&d|ttd,894
+hotel|h&a|health & beauty,87
+hotel|h&a|hotel,579
+hotel|h&a|ttd,217
+hotel|h&a|ttd - leisure,828
+hotel|hardlines|hotel,462
+hotel|hardlines|ttd,110
+hotel|hardlines|ttd - leisure,427
+hotel|hbw|charity,1
+hotel|hbw|hbw,8271
+hotel|hbw|hotel,1651
+hotel|hbw|softlines,559
+hotel|hbw|tour,49
+hotel|hbw|ttd - live,354
+hotel|hbw|unknown,20
+hotel|health & beauty|end,1203
+hotel|health & beauty|f&d,183
+hotel|health & beauty|hbw,305
+hotel|health & beauty|tech & toys,277
+hotel|home|f&d,203
+hotel|home|hotel,397
+hotel|home|tech & toys,579
+hotel|home|ttd - leisure,446
+hotel|home|ttd - live,99
+hotel|home|unknown,13
+hotel|hotel|unknown,39
+hotel|multi|h&a,2
+hotel|multi|hbw,5
+hotel|multi|hotel,5
+hotel|multi|retail,2
+hotel|retail|hotel,1391
+hotel|retail|ttd,555
+hotel|retail|ttd - leisure,1949
+hotel|retail|unknown,15
+hotel|softlines|h&a,122
+hotel|softlines|hardlines,678
+hotel|softlines|multi,1
+hotel|tech & toys|health & beauty,196
+hotel|tech & toys|home,586
+hotel|tech & toys|ttd,141
+hotel|tech & toys|ttd - leisure,484
+hotel|tech & toys|unknown,4
+hotel|tour|hardlines,14
+hotel|tour|home,15
+hotel|tour|softlines,12
+hotel|ttd|multi,3
+hotel|ttd|ttd - leisure,2286
+hotel|ttd|ttd - live,349
+hotel|ttd - leisure|h&a,582
+hotel|ttd - leisure|tech & toys,624
+hotel|ttd - leisure|ttd - live,851
+hotel|ttd - live|end,3417
+hotel|ttd - live|health & beauty,29
+hotel|ttd - live|tech & toys,104
+hotel|ttd - live|ttd - leisure,788
+hotel|unknown|f&d,9
+hotel|unknown|ttd - live,3
+multi|f&d|h&a,14
+multi|f&d|hardlines,4
+multi|f&d|health & beauty,1
+multi|h&a|f&d,6
+multi|h&a|softlines,5
+multi|hardlines|ttd - live,2
+multi|hbw|h&a,11
+multi|hbw|hardlines,2
+multi|hbw|hbw,51
+multi|hbw|tech & toys,2
+multi|health & beauty|hardlines,8
+multi|health & beauty|hbw,3
+multi|health & beauty|retail,4
+multi|health & beauty|ttd,1
+multi|home|end,17
+multi|home|hbw,3
+multi|hotel|h&a,1
+multi|hotel|health & beauty,1
+multi|multi|hardlines,14
+multi|multi|tech & toys,4
+multi|retail|home,5
+multi|retail|ttd - leisure,16
+multi|retail|ttd - live,1
+multi|softlines|health & beauty,6
+multi|softlines|tech & toys,9
+multi|tech & toys|hardlines,8
+multi|tech & toys|home,6
+multi|tech & toys|retail,2
+multi|ttd|health & beauty,1
+multi|ttd|hotel,1
+multi|ttd|softlines,5
+multi|ttd - leisure|end,118
+multi|ttd - leisure|f&d,12
+multi|ttd - leisure|hbw,9
+multi|ttd - leisure|home,5
+multi|ttd - leisure|tech & toys,2
+multi|ttd - live|f&d,4
+retail|charity|end,20
+retail|charity|f&d,1
+retail|charity|retail,13
+retail|charity|ttd - leisure,3
+retail|f&d|hotel,958
+retail|f&d|unknown,83
+retail|h&a|hbw,4065
+retail|h&a|health & beauty,672
+retail|h&a|ttd - leisure,4106
+retail|hardlines|h&a,1013
+retail|hardlines|hardlines,23320
+retail|hardlines|multi,5
+retail|hardlines|ttd - live,570
+retail|hbw|hardlines,4292
+retail|hbw|hbw,48944
+retail|hbw|hotel,1192
+retail|health & beauty|charity,1
+retail|health & beauty|h&a,798
+retail|health & beauty|softlines,3870
+retail|health & beauty|ttd - live,371
+retail|health & beauty|unknown,53
+retail|home|end,21314
+retail|home|f&d,1509
+retail|home|hbw,2364
+retail|home|softlines,6114
+retail|hotel|h&a,382
+retail|hotel|home,456
+retail|hotel|softlines,587
+retail|hotel|tech & toys,516
+retail|hotel|tour,29
+retail|multi|home,5
+retail|multi|retail,31
+retail|multi|ttd,2
+retail|retail|f&d,23751
+retail|retail|h&a,12033
+retail|retail|hbw,33212
+retail|retail|home,17437
+retail|retail|ttd - leisure,38893
+retail|softlines|hardlines,6764
+retail|softlines|hbw,2950
+retail|softlines|retail,13075
+retail|softlines|tech & toys,5345
+retail|softlines|ttd,1205
+retail|softlines|ttd - live,587
+retail|tech & toys|hardlines,5449
+retail|tech & toys|hotel,403
+retail|tech & toys|ttd - leisure,2979
+retail|tour|end,550
+retail|tour|hardlines,46
+retail|tour|hbw,85
+retail|tour|tech & toys,20
+retail|ttd|f&d,5565
+retail|ttd|hardlines,1869
+retail|ttd|softlines,2532
+retail|ttd|unknown,115
+retail|ttd - leisure|end,86044
+retail|ttd - leisure|multi,5
+retail|ttd - leisure|softlines,3671
+retail|ttd - live|h&a,436
+retail|ttd - live|hardlines,749
+retail|ttd - live|multi,1
+retail|unknown|hotel,11
+retail|unknown|multi,1
+retail|unknown|softlines,93
+retail|unknown|tech & toys,69
+softlines|f&d|hardlines,1195
+softlines|f&d|health & beauty,626
+softlines|f&d|home,1098
+softlines|f&d|hotel,261
+softlines|f&d|unknown,35
+softlines|h&a|h&a,3572
+softlines|h&a|multi,4
+softlines|h&a|tech & toys,597
+softlines|h&a|ttd,308
+softlines|h&a|ttd - live,149
+softlines|hardlines|hbw,1725
+softlines|hardlines|multi,7
+softlines|hardlines|softlines,19998
+softlines|hardlines|ttd,619
+softlines|hardlines|ttd - leisure,1613
+softlines|hbw|home,1597
+softlines|hbw|tech & toys,1282
+softlines|hbw|tour,39
+softlines|health & beauty|h&a,628
+softlines|health & beauty|hardlines,3901
+softlines|health & beauty|hbw,2014
+softlines|health & beauty|tour,32
+softlines|home|h&a,717
+softlines|home|hbw,1931
+softlines|home|health & beauty,3179
+softlines|home|multi,5
+softlines|home|ttd,799
+softlines|home|ttd - live,307
+softlines|hotel|f&d,257
+softlines|hotel|hbw,333
+softlines|hotel|softlines,855
+softlines|hotel|tech & toys,204
+softlines|hotel|unknown,5
+softlines|multi|home,2
+softlines|multi|multi,2
+softlines|multi|tech & toys,3
+softlines|multi|ttd - live,4
+softlines|retail|h&a,991
+softlines|retail|hbw,2700
+softlines|retail|health & beauty,1581
+softlines|retail|home,2887
+softlines|retail|tech & toys,2842
+softlines|softlines|end,158175
+softlines|softlines|ttd,7701
+softlines|tech & toys|f&d,992
+softlines|tour|ttd - leisure,24
+softlines|tour|ttd - live,2
+softlines|ttd|h&a,592
+softlines|ttd|hbw,1607
+softlines|ttd|retail,2028
+softlines|ttd - leisure|hardlines,1466
+softlines|ttd - leisure|home,945
+softlines|ttd - live|hbw,233
+softlines|ttd - live|health & beauty,63
+softlines|ttd - live|multi,1
+softlines|ttd - live|softlines,663
+softlines|unknown|end,212
+softlines|unknown|unknown,290
+tech & toys|f&d|h&a,672
+tech & toys|f&d|health & beauty,471
+tech & toys|f&d|retail,1742
+tech & toys|f&d|softlines,1035
+tech & toys|f&d|tour,8
+tech & toys|f&d|ttd - leisure,1636
+tech & toys|h&a|f&d,647
+tech & toys|h&a|h&a,3950
+tech & toys|h&a|hardlines,745
+tech & toys|h&a|hotel,124
+tech & toys|h&a|multi,3
+tech & toys|h&a|retail,959
+tech & toys|h&a|tech & toys,1664
+tech & toys|h&a|tour,17
+tech & toys|h&a|ttd,354
+tech & toys|hardlines|retail,2918
+tech & toys|hardlines|softlines,6364
+tech & toys|hardlines|ttd - leisure,1682
+tech & toys|hbw|h&a,801
+tech & toys|hbw|home,1148
+tech & toys|hbw|multi,5
+tech & toys|hbw|retail,2032
+tech & toys|hbw|softlines,1516
+tech & toys|hbw|tour,34
+tech & toys|health & beauty|hardlines,3013
+tech & toys|health & beauty|health & beauty,8793
+tech & toys|health & beauty|retail,1965
+tech & toys|health & beauty|tour,21
+tech & toys|home|health & beauty,2347
+tech & toys|home|home,15276
+tech & toys|home|tour,33
+tech & toys|home|ttd,805
+tech & toys|home|ttd - live,344
+tech & toys|hotel|end,2417
+tech & toys|hotel|hardlines,220
+tech & toys|hotel|health & beauty,126
+tech & toys|hotel|home,186
+tech & toys|hotel|hotel,1611
+tech & toys|hotel|tour,11
+tech & toys|hotel|ttd,157
+tech & toys|hotel|ttd - live,83
+tech & toys|hotel|unknown,2
+tech & toys|multi|health & beauty,2
+tech & toys|multi|hotel,1
+tech & toys|multi|ttd,2
+tech & toys|retail|end,22092
+tech & toys|retail|h&a,868
+tech & toys|retail|hardlines,2921
+tech & toys|retail|health & beauty,1160
+tech & toys|retail|hotel,373
+tech & toys|retail|ttd,895
+tech & toys|retail|ttd - live,451
+tech & toys|softlines|health & beauty,2804
+tech & toys|softlines|multi,4
+tech & toys|softlines|ttd,804
+tech & toys|softlines|ttd - leisure,1610
+tech & toys|tech & toys|hardlines,19100
+tech & toys|tech & toys|ttd - leisure,10001
+tech & toys|tech & toys|ttd - live,1535
+tech & toys|tech & toys|unknown,275
+tech & toys|tour|f&d,11
+tech & toys|tour|health & beauty,10
+tech & toys|tour|hotel,12
+tech & toys|tour|tech & toys,48
+tech & toys|tour|tour,211
+tech & toys|ttd|f&d,1150
+tech & toys|ttd|hbw,1342
+tech & toys|ttd|health & beauty,684
+tech & toys|ttd|home,746
+tech & toys|ttd|hotel,315
+tech & toys|ttd|multi,4
+tech & toys|ttd|tech & toys,2525
+tech & toys|ttd|ttd,5527
+tech & toys|ttd|ttd - live,329
+tech & toys|ttd|unknown,42
+tech & toys|ttd - leisure|home,917
+tech & toys|ttd - leisure|retail,2081
+tech & toys|ttd - leisure|ttd - leisure,11432
+tech & toys|ttd - live|end,3101
+tech & toys|ttd - live|f&d,149
+tech & toys|ttd - live|home,150
+tech & toys|ttd - live|tour,4
+tech & toys|ttd - live|ttd - live,1052
+tech & toys|unknown|end,215
+tech & toys|unknown|health & beauty,38
+tech & toys|unknown|retail,53
+tech & toys|unknown|ttd,9
+tech & toys|unknown|ttd - leisure,26
+tech & toys|unknown|unknown,200
+tour|f&d|end,368
+tour|f&d|f&d,286
+tour|f&d|health & beauty,12
+tour|f&d|ttd - live,19
+tour|h&a|home,19
+tour|h&a|hotel,22
+tour|h&a|multi,1
+tour|h&a|softlines,24
+tour|h&a|tech & toys,22
+tour|h&a|ttd,17
+tour|hardlines|f&d,12
+tour|hardlines|home,41
+tour|hbw|end,1013
+tour|hbw|f&d,69
+tour|hbw|ttd,41
+tour|hbw|ttd - live,33
+tour|health & beauty|f&d,11
+tour|health & beauty|softlines,22
+tour|hotel|end,345
+tour|hotel|home,16
+tour|hotel|retail,32
+tour|multi|end,1
+tour|retail|hbw,123
+tour|retail|softlines,49
+tour|retail|ttd - live,28
+tour|softlines|h&a,13
+tour|softlines|home,55
+tour|softlines|hotel,12
+tour|softlines|retail,41
+tour|softlines|tour,26
+tour|tech & toys|h&a,11
+tour|tech & toys|home,48
+tour|tech & toys|ttd - leisure,31
+tour|tour|retail,457
+tour|tour|tour,4156
+tour|tour|ttd - leisure,658
+tour|tour|ttd - live,136
+tour|ttd|h&a,35
+tour|ttd|hardlines,28
+tour|ttd|hotel,36
+tour|ttd|retail,61
+tour|ttd|ttd - leisure,116
+tour|ttd - leisure|softlines,47
+tour|ttd - leisure|tour,60
+tour|ttd - live|hardlines,19
+tour|ttd - live|health & beauty,3
+tour|ttd - live|ttd - leisure,41
+tour|unknown|hardlines,1
+ttd|charity|hardlines,1
+ttd|charity|hbw,3
+ttd|charity|tech & toys,2
+ttd|f&d|end,52296
+ttd|f&d|charity,3
+ttd|f&d|h&a,4886
+ttd|f&d|hardlines,3423
+ttd|f&d|hotel,2001
+ttd|h&a|end,26641
+ttd|h&a|h&a,19677
+ttd|h&a|hbw,6053
+ttd|h&a|health & beauty,875
+ttd|h&a|multi,14
+ttd|h&a|ttd - leisure,10468
+ttd|hardlines|hardlines,13558
+ttd|hardlines|health & beauty,1417
+ttd|hardlines|home,2937
+ttd|hardlines|unknown,44
+ttd|hbw|hardlines,4221
+ttd|hbw|ttd - live,4093
+ttd|health & beauty|end,9899
+ttd|health & beauty|health & beauty,10720
+ttd|health & beauty|hotel,492
+ttd|health & beauty|tour,45
+ttd|home|end,12876
+ttd|home|f&d,1507
+ttd|home|health & beauty,1726
+ttd|home|hotel,410
+ttd|home|tour,41
+ttd|hotel|hardlines,674
+ttd|hotel|health & beauty,359
+ttd|hotel|retail,2056
+ttd|hotel|tour,57
+ttd|hotel|ttd,2645
+ttd|multi|h&a,22
+ttd|multi|multi,30
+ttd|multi|ttd - leisure,47
+ttd|retail|h&a,4107
+ttd|retail|hbw,11468
+ttd|retail|health & beauty,2880
+ttd|retail|ttd - live,3377
+ttd|softlines|f&d,2051
+ttd|softlines|h&a,1032
+ttd|softlines|hardlines,3375
+ttd|softlines|home,3184
+ttd|softlines|hotel,607
+ttd|softlines|tech & toys,3097
+ttd|softlines|ttd - leisure,5037
+ttd|tech & toys|f&d,1783
+ttd|tech & toys|hardlines,3084
+ttd|tech & toys|health & beauty,1721
+ttd|tech & toys|ttd,3255
+ttd|tech & toys|ttd - leisure,4863
+ttd|tech & toys|ttd - live,792
+ttd|tour|end,794
+ttd|tour|softlines,48
+ttd|ttd|f&d,44920
+ttd|ttd|hotel,9612
+ttd|ttd|tour,691
+ttd|ttd|ttd - live,14833
+ttd|ttd - leisure|end,162113
+ttd|ttd - leisure|multi,11
+ttd|ttd - leisure|retail,15332
+ttd|ttd - leisure|tech & toys,4708
+ttd|ttd - live|h&a,823
+ttd|ttd - live|hardlines,1062
+ttd|ttd - live|hotel,514
+ttd|ttd - live|multi,3
+ttd|ttd - live|tech & toys,764
+ttd|ttd - live|ttd - live,10484
+ttd|ttd - live|unknown,1
+ttd|unknown|health & beauty,76
+ttd|unknown|softlines,106
+ttd - leisure|charity|ttd - leisure,9
+ttd - leisure|charity|ttd - live,2
+ttd - leisure|f&d|charity,1
+ttd - leisure|f&d|h&a,1769
+ttd - leisure|f&d|hardlines,2127
+ttd - leisure|f&d|health & beauty,343
+ttd - leisure|f&d|hotel,807
+ttd - leisure|h&a|hbw,2575
+ttd - leisure|h&a|retail,2087
+ttd - leisure|h&a|tour,19
+ttd - leisure|hardlines|charity,1
+ttd - leisure|hardlines|home,2933
+ttd - leisure|hardlines|multi,3
+ttd - leisure|hardlines|tour,25
+ttd - leisure|hardlines|ttd - leisure,4933
+ttd - leisure|hbw|hardlines,3045
+ttd - leisure|hbw|multi,3
+ttd - leisure|hbw|tech & toys,1746
+ttd - leisure|hbw|unknown,2
+ttd - leisure|health & beauty|end,4033
+ttd - leisure|health & beauty|f&d,355
+ttd - leisure|health & beauty|hbw,642
+ttd - leisure|health & beauty|retail,679
+ttd - leisure|home|hardlines,3151
+ttd - leisure|home|health & beauty,453
+ttd - leisure|home|hotel,220
+ttd - leisure|home|ttd - leisure,3394
+ttd - leisure|home|unknown,1
+ttd - leisure|hotel|h&a,282
+ttd - leisure|hotel|hardlines,463
+ttd - leisure|hotel|home,263
+ttd - leisure|hotel|hotel,5757
+ttd - leisure|hotel|tour,22
+ttd - leisure|multi|end,22
+ttd - leisure|multi|f&d,2
+ttd - leisure|multi|hardlines,2
+ttd - leisure|multi|health & beauty,2
+ttd - leisure|multi|tech & toys,1
+ttd - leisure|retail|end,77207
+ttd - leisure|retail|health & beauty,484
+ttd - leisure|retail|ttd - leisure,15788
+ttd - leisure|softlines|f&d,856
+ttd - leisure|softlines|h&a,516
+ttd - leisure|softlines|health & beauty,543
+ttd - leisure|softlines|hotel,241
+ttd - leisure|tech & toys|end,19684
+ttd - leisure|tech & toys|h&a,491
+ttd - leisure|tech & toys|health & beauty,370
+ttd - leisure|tech & toys|ttd - live,432
+ttd - leisure|tour|h&a,22
+ttd - leisure|tour|hardlines,23
+ttd - leisure|tour|softlines,16
+ttd - leisure|tour|ttd - live,16
+ttd - leisure|ttd - leisure|charity,8
+ttd - leisure|ttd - leisure|hbw,37857
+ttd - leisure|ttd - leisure|tech & toys,12487
+ttd - leisure|ttd - live|home,621
+ttd - leisure|ttd - live|hotel,409
+ttd - leisure|ttd - live|ttd - live,8726
+ttd - leisure|unknown|f&d,10
+ttd - leisure|unknown|home,1
+ttd - leisure|unknown|hotel,1
+ttd - leisure|unknown|retail,12
+ttd - live|charity|charity,1
+ttd - live|charity|retail,1
+ttd - live|f&d|h&a,207
+ttd - live|f&d|hotel,103
+ttd - live|f&d|tech & toys,169
+ttd - live|h&a|end,3737
+ttd - live|h&a|f&d,195
+ttd - live|h&a|hardlines,167
+ttd - live|h&a|health & beauty,25
+ttd - live|h&a|softlines,112
+ttd - live|h&a|tour,2
+ttd - live|h&a|ttd - leisure,552
+ttd - live|h&a|ttd - live,265
+ttd - live|hardlines|end,4343
+ttd - live|hardlines|hbw,291
+ttd - live|hardlines|health & beauty,32
+ttd - live|hardlines|tech & toys,462
+ttd - live|hbw|hardlines,460
+ttd - live|hbw|hbw,5019
+ttd - live|hbw|health & beauty,67
+ttd - live|hbw|softlines,334
+ttd - live|hbw|ttd - leisure,1623
+ttd - live|hbw|ttd - live,832
+ttd - live|health & beauty|end,554
+ttd - live|health & beauty|hotel,17
+ttd - live|health & beauty|tech & toys,79
+ttd - live|health & beauty|tour,1
+ttd - live|home|end,2332
+ttd - live|home|hardlines,487
+ttd - live|home|retail,285
+ttd - live|home|ttd - live,196
+ttd - live|hotel|retail,130
+ttd - live|multi|end,6
+ttd - live|retail|end,9515
+ttd - live|retail|hardlines,547
+ttd - live|retail|hotel,139
+ttd - live|retail|softlines,535
+ttd - live|retail|tour,11
+ttd - live|retail|ttd - leisure,1338
+ttd - live|softlines|end,2838
+ttd - live|softlines|h&a,75
+ttd - live|softlines|tech & toys,391
+ttd - live|softlines|tour,5
+ttd - live|softlines|unknown,1
+ttd - live|tech & toys|hbw,169
+ttd - live|tech & toys|home,439
+ttd - live|tech & toys|hotel,35
+ttd - live|tech & toys|tech & toys,1591
+ttd - live|tech & toys|tour,2
+ttd - live|tech & toys|ttd - leisure,309
+ttd - live|tour|f&d,2
+ttd - live|tour|hbw,6
+ttd - live|ttd - leisure|home,495
+ttd - live|ttd - leisure|retail,1749
+ttd - live|ttd - leisure|unknown,1
+ttd - live|ttd - live|f&d,1759
+ttd - live|ttd - live|hbw,2705
+ttd - live|ttd - live|home,811
+ttd - live|ttd - live|softlines,1262
+ttd - live|ttd - live|unknown,1
+ttd - live|unknown|f&d,1
+unknown|charity|hardlines,1
+unknown|f&d|end,289
+unknown|f&d|f&d,303
+unknown|f&d|h&a,33
+unknown|f&d|home,21
+unknown|f&d|multi,1
+unknown|f&d|retail,53
+unknown|f&d|tech & toys,16
+unknown|h&a|ttd,2
+unknown|h&a|unknown,7
+unknown|hardlines|end,380
+unknown|hardlines|f&d,27
+unknown|hardlines|ttd,4
+unknown|hardlines|ttd - live,6
+unknown|hbw|f&d,124
+unknown|hbw|health & beauty,47
+unknown|hbw|hotel,16
+unknown|hbw|ttd - leisure,280
+unknown|hbw|ttd - live,49
+unknown|hbw|unknown,15
+unknown|health & beauty|f&d,17
+unknown|health & beauty|h&a,18
+unknown|health & beauty|health & beauty,228
+unknown|home|hbw,53
+unknown|home|retail,38
+unknown|home|ttd - leisure,36
+unknown|hotel|h&a,4
+unknown|hotel|retail,19
+unknown|multi|hbw,1
+unknown|multi|ttd - leisure,1
+unknown|retail|hardlines,77
+unknown|retail|health & beauty,40
+unknown|retail|hotel,12
+unknown|softlines|end,339
+unknown|softlines|hotel,6
+unknown|softlines|ttd - leisure,50
+unknown|softlines|unknown,19
+unknown|tour|home,1
+unknown|ttd|f&d,30
+unknown|ttd|hardlines,13
+unknown|ttd|health & beauty,7
+unknown|ttd|retail,37
+unknown|ttd|ttd,103
+unknown|ttd - leisure|end,712
+unknown|ttd - leisure|hotel,18
+unknown|ttd - leisure|ttd - leisure,502
+unknown|ttd - leisure|ttd - live,44
+unknown|ttd - leisure|unknown,1
+unknown|ttd - live|end,125
+unknown|ttd - live|hardlines,9
+unknown|ttd - live|hbw,19
+unknown|ttd - live|tech & toys,7
+unknown|ttd - live|ttd - live,54
+unknown|unknown|hardlines,221
+unknown|unknown|hbw,474
+unknown|unknown|ttd,73
+unknown|unknown|ttd - live,47
+unknown|unknown|unknown,2165
+charity|charity|f&d,4
+charity|charity|hbw,4
+charity|f&d|end,7
+charity|f&d|retail,1
+charity|f&d|ttd - leisure,4
+charity|hardlines|f&d,1
+charity|hardlines|softlines,2
+charity|hbw|hardlines,1
+charity|health & beauty|charity,1
+charity|home|ttd - leisure,1
+charity|retail|hbw,3
+charity|retail|softlines,2
+charity|retail|ttd - leisure,6
+charity|tech & toys|h&a,1
+charity|tech & toys|hardlines,1
+charity|ttd|health & beauty,1
+charity|ttd|ttd,6
+charity|ttd|ttd - leisure,2
+charity|ttd - leisure|hbw,3
+charity|ttd - leisure|home,1
+charity|ttd - leisure|softlines,4
+charity|ttd - live|hotel,1
+charity|ttd - live|ttd - leisure,1
+f&d|charity|ttd - live,2
+f&d|f&d|hbw,42219
+f&d|f&d|tour,353
+f&d|f&d|ttd,23606
+f&d|h&a|f&d,13250
+f&d|h&a|h&a,19602
+f&d|h&a|ttd,1753
+f&d|h&a|ttd - live,831
+f&d|hardlines|f&d,6016
+f&d|hardlines|hotel,329
+f&d|hardlines|ttd,701
+f&d|hbw|home,3108
+f&d|hbw|softlines,3700
+f&d|hbw|tech & toys,2666
+f&d|hbw|unknown,131
+f&d|health & beauty|hardlines,2529
+f&d|health & beauty|tech & toys,1606
+f&d|home|health & beauty,1378
+f&d|home|retail,3279
+f&d|home|softlines,3639
+f&d|home|ttd - leisure,2278
+f&d|hotel|health & beauty,193
+f&d|multi|hardlines,2
+f&d|multi|health & beauty,2
+f&d|retail|f&d,26030
+f&d|retail|hbw,10449
+f&d|retail|home,4144
+f&d|retail|hotel,1454
+f&d|retail|retail,52506
+f&d|retail|softlines,5728
+f&d|retail|tour,82
+f&d|retail|ttd,3933
+f&d|retail|ttd - live,2023
+f&d|softlines|end,19428
+f&d|softlines|charity,2
+f&d|softlines|hardlines,4053
+f&d|softlines|health & beauty,1694
+f&d|softlines|hotel,366
+f&d|softlines|ttd - leisure,2805
+f&d|tech & toys|h&a,991
+f&d|tech & toys|health & beauty,1083
+f&d|tech & toys|softlines,3241
+f&d|tour|hbw,88
+f&d|tour|softlines,27
+f&d|tour|tour,670
+f&d|tour|ttd,42
+f&d|tour|ttd - live,17
+f&d|ttd|charity,2
+f&d|ttd|home,1816
+f&d|ttd|hotel,1464
+f&d|ttd|softlines,2594
+f&d|ttd|tech & toys,2022
+f&d|ttd - leisure|end,108198
+f&d|ttd - leisure|f&d,23623
+f&d|ttd - leisure|h&a,3960
+f&d|ttd - leisure|hbw,9754
+f&d|ttd - leisure|ttd - live,3557
+f&d|ttd - live|f&d,3217
+f&d|ttd - live|hardlines,685
+f&d|ttd - live|softlines,573
+f&d|ttd - live|ttd - live,5140
+f&d|unknown|end,369
+f&d|unknown|f&d,272
+f&d|unknown|hotel,5
+h&a|charity|f&d,1
+h&a|charity|ttd - leisure,2
+h&a|f&d|charity,1
+h&a|f&d|h&a,9694
+h&a|f&d|hardlines,1536
+h&a|f&d|tech & toys,1117
+h&a|f&d|tour,43
+h&a|f&d|ttd,2167
+h&a|h&a|charity,8
+h&a|h&a|h&a,156120
+h&a|h&a|multi,60
+h&a|hardlines|hardlines,8864
+h&a|hardlines|health & beauty,561
+h&a|hardlines|tour,16
+h&a|hbw|h&a,14037
+h&a|hbw|multi,10
+h&a|hbw|softlines,1934
+h&a|hbw|ttd - live,1041
+h&a|hbw|unknown,73
+h&a|health & beauty|multi,4
+h&a|health & beauty|retail,1024
+h&a|health & beauty|unknown,15
+h&a|home|end,8069
+h&a|home|hbw,1190
+h&a|home|health & beauty,711
+h&a|hotel|home,167
+h&a|hotel|retail,465
+h&a|hotel|ttd - live,145
+h&a|multi|hbw,15
+h&a|multi|hotel,2
+h&a|multi|retail,15
+h&a|multi|softlines,4
+h&a|multi|tech & toys,7
+h&a|retail|end,32804
+h&a|retail|f&d,3092
+h&a|retail|hotel,511
+h&a|retail|multi,9
+h&a|retail|retail,18720
+h&a|retail|softlines,2177
+h&a|retail|tech & toys,1834
+h&a|retail|ttd - leisure,4687
+h&a|softlines|charity,2
+h&a|softlines|f&d,763
+h&a|softlines|h&a,2906
+h&a|softlines|health & beauty,820
+h&a|softlines|softlines,11971
+h&a|softlines|ttd - leisure,1142
+h&a|softlines|unknown,19
+h&a|tech & toys|end,9206
+h&a|tech & toys|hbw,1089
+h&a|tech & toys|health & beauty,632
+h&a|tech & toys|home,1734
+h&a|tech & toys|tour,15
+h&a|tech & toys|ttd - leisure,1295
+h&a|tour|home,20
+h&a|tour|unknown,1
+h&a|ttd|f&d,3072
+h&a|ttd|retail,2718
+h&a|ttd|ttd - live,668
+h&a|ttd - leisure|multi,4
+h&a|ttd - live|health & beauty,54
+h&a|ttd - live|hotel,111
+h&a|ttd - live|tour,11
+h&a|unknown|h&a,119
+h&a|unknown|hardlines,30
+h&a|unknown|hbw,81
+h&a|unknown|home,27
+h&a|unknown|tech & toys,28
+h&a|unknown|unknown,152
+hardlines|charity|charity,3
+hardlines|f&d|hbw,1195
+hardlines|f&d|health & beauty,442
+hardlines|f&d|home,952
+hardlines|f&d|hotel,163
+hardlines|f&d|multi,4
+hardlines|f&d|ttd - leisure,1460
+hardlines|h&a|f&d,546
+hardlines|h&a|hardlines,1599
+hardlines|h&a|softlines,629
+hardlines|h&a|ttd,270
+hardlines|hardlines|charity,1
+hardlines|hardlines|h&a,3621
+hardlines|hardlines|ttd - leisure,7706
+hardlines|hardlines|ttd - live,1506
+hardlines|hbw|hbw,10224
+hardlines|hbw|home,1296
+hardlines|hbw|softlines,1486
+hardlines|hbw|ttd - live,346
+hardlines|health & beauty|health & beauty,7159
+hardlines|health & beauty|retail,1676
+hardlines|health & beauty|softlines,2957
+hardlines|health & beauty|ttd - leisure,874
+hardlines|home|charity,1
+hardlines|home|f&d,1063
+hardlines|home|h&a,670
+hardlines|home|hardlines,14424
+hardlines|home|health & beauty,2114
+hardlines|home|multi,1
+hardlines|home|unknown,53
+hardlines|hotel|f&d,169
+hardlines|hotel|hotel,1350
+hardlines|hotel|softlines,215
+hardlines|hotel|ttd - leisure,373
+hardlines|multi|health & beauty,3
+hardlines|multi|retail,6
+hardlines|multi|ttd,2
+hardlines|retail|f&d,1337
+hardlines|retail|hotel,304
+hardlines|retail|ttd - leisure,2357
+hardlines|retail|unknown,37
+hardlines|softlines|f&d,1046
+hardlines|softlines|retail,3530
+hardlines|softlines|ttd - leisure,1519
+hardlines|softlines|ttd - live,293
+hardlines|softlines|unknown,59
+hardlines|tech & toys|h&a,633
+hardlines|tech & toys|unknown,46
+hardlines|tour|hotel,12
+hardlines|tour|tour,174
+hardlines|tour|ttd - live,5
+hardlines|ttd|health & beauty,480
+hardlines|ttd|retail,1264
+hardlines|ttd|tech & toys,652
+hardlines|ttd|ttd - live,242
+hardlines|ttd - leisure|end,17550
+hardlines|ttd - leisure|hbw,1308
+hardlines|ttd - leisure|softlines,1161
+hardlines|ttd - leisure|tech & toys,1005
+hardlines|ttd - leisure|unknown,3
+hardlines|ttd - live|end,3231
+hardlines|ttd - live|hotel,43
+hardlines|ttd - live|softlines,225
+hardlines|ttd - live|ttd - leisure,485
+hardlines|unknown|hotel,5
+hbw|charity|home,1
+hbw|charity|ttd - leisure,1
+hbw|charity|ttd - live,1
+hbw|f&d|h&a,4350
+hbw|f&d|health & beauty,1878
+hbw|f&d|home,2507
+hbw|f&d|hotel,1107
+hbw|f&d|tech & toys,2121
+hbw|f&d|ttd,4958
+hbw|h&a|charity,1
+hbw|h&a|hardlines,2282
+hbw|h&a|retail,4919
+hbw|h&a|ttd,1783
+hbw|h&a|unknown,76
+hbw|hardlines|end,31597
+hbw|hardlines|health & beauty,1442
+hbw|hardlines|home,4454
+hbw|hardlines|multi,5
+hbw|hardlines|retail,3697
+hbw|hardlines|ttd - leisure,3046
+hbw|hbw|charity,7
+hbw|hbw|h&a,30451
+hbw|hbw|hbw,667557
+hbw|hbw|health & beauty,15558
+hbw|health & beauty|h&a,1292
+hbw|health & beauty|hardlines,3647
+hbw|health & beauty|home,3026
+hbw|health & beauty|hotel,389
+hbw|health & beauty|ttd - leisure,2808
+hbw|health & beauty|ttd - live,506
+hbw|home|hbw,8931
+hbw|hotel|end,11804
+hbw|hotel|hotel,7139
+hbw|hotel|ttd,721
+hbw|hotel|unknown,21
+hbw|multi|f&d,2
+hbw|multi|hardlines,5
+hbw|multi|hotel,3
+hbw|multi|multi,25
+hbw|multi|ttd,3
+hbw|multi|ttd - leisure,16
+hbw|retail|end,78292
+hbw|retail|h&a,4317
+hbw|retail|softlines,5886
+hbw|retail|tour,125
+hbw|softlines|softlines,31617
+hbw|softlines|ttd - leisure,2944
+hbw|softlines|ttd - live,603
+hbw|tech & toys|h&a,988
+hbw|tech & toys|hbw,7251
+hbw|tech & toys|hotel,316
+hbw|tour|hardlines,43
+hbw|ttd|end,21375
+hbw|ttd|hbw,27522
+hbw|ttd|home,2016
+hbw|ttd|retail,7503
+hbw|ttd|tour,121
+hbw|ttd|ttd - live,1822
+hbw|ttd - leisure|end,123832
+hbw|ttd - leisure|home,2956
+hbw|ttd - leisure|softlines,3660
+hbw|ttd - leisure|tour,123
+hbw|ttd - leisure|ttd - live,4113
+hbw|ttd - live|h&a,667
+hbw|ttd - live|softlines,642
+hbw|ttd - live|tech & toys,463
+hbw|unknown|ttd - live,34
+health & beauty|charity|retail,4
+health & beauty|f&d|home,865
+health & beauty|f&d|ttd - leisure,1610
+health & beauty|h&a|hardlines,1074
+health & beauty|h&a|health & beauty,1138
+health & beauty|h&a|tech & toys,576
+health & beauty|hardlines|end,22670
+health & beauty|hardlines|health & beauty,5260
+health & beauty|hardlines|ttd,646
+health & beauty|hardlines|ttd - live,310
+health & beauty|hbw|hardlines,3149
+health & beauty|hbw|hotel,393
+health & beauty|hbw|multi,3
+health & beauty|hbw|ttd,1251
+health & beauty|hbw|ttd - leisure,2923
+health & beauty|hbw|unknown,79
+health & beauty|health & beauty|f&d,5495
+health & beauty|health & beauty|h&a,3522
+health & beauty|health & beauty|hbw,11684
+health & beauty|health & beauty|tech & toys,10820
+health & beauty|home|hardlines,4869
+health & beauty|home|health & beauty,6917
+health & beauty|home|ttd - leisure,1287
+health & beauty|hotel|end,2040
+health & beauty|hotel|f&d,203
+health & beauty|hotel|h&a,117
+health & beauty|hotel|hardlines,375
+health & beauty|hotel|home,189
+health & beauty|hotel|softlines,265
+health & beauty|hotel|tour,9
+health & beauty|hotel|ttd - live,75
+health & beauty|hotel|unknown,4
+health & beauty|multi|h&a,8
+health & beauty|multi|health & beauty,10
+health & beauty|retail|f&d,1561
+health & beauty|retail|hardlines,3636
+health & beauty|retail|home,2098
+health & beauty|retail|tour,28
+health & beauty|retail|ttd,999
+health & beauty|retail|ttd - leisure,2523
+health & beauty|softlines|h&a,712
+health & beauty|softlines|hbw,2262
+health & beauty|softlines|softlines,26942
+health & beauty|softlines|ttd,1047
+health & beauty|tech & toys|f&d,833
+health & beauty|tech & toys|multi,4
+health & beauty|tech & toys|softlines,3919
+health & beauty|tech & toys|tour,32
+health & beauty|tech & toys|unknown,49
+health & beauty|tour|h&a,16
+health & beauty|tour|health & beauty,30
+health & beauty|tour|retail,21
+health & beauty|tour|tour,206
+health & beauty|tour|ttd,16
+health & beauty|ttd|hardlines,1044
+health & beauty|ttd|multi,4
+health & beauty|ttd|softlines,1245
+health & beauty|ttd - leisure|tech & toys,890
+health & beauty|ttd - live|f&d,149
+health & beauty|ttd - live|h&a,98
+health & beauty|ttd - live|hardlines,417
+health & beauty|ttd - live|hbw,298
+health & beauty|ttd - live|softlines,198
+health & beauty|unknown|end,218
+health & beauty|unknown|ttd,11
+home|charity|end,3
+home|f&d|f&d,5396
+home|f&d|h&a,526
+home|f&d|hotel,198
+home|f&d|ttd - live,237
+home|h&a|retail,913
+home|h&a|tech & toys,537
+home|hardlines|health & beauty,2103
+home|hardlines|retail,3419
+home|hbw|hotel,274
+home|hbw|multi,1
+home|hbw|tour,24
+home|health & beauty|ttd,735
+home|health & beauty|ttd - live,193
+home|home|end,96099
+home|home|hardlines,20073
+home|home|health & beauty,8798
+home|home|home,118088
+home|home|hotel,1484
+home|home|retail,14005
+home|home|tech & toys,14534
+home|hotel|f&d,163
+home|hotel|ttd,130
+home|hotel|ttd - live,77
+home|multi|health & beauty,3
+home|multi|hotel,1
+home|multi|multi,1
+home|retail|end,20738
+home|retail|retail,14612
+home|retail|tour,27
+home|retail|ttd,768
+home|softlines|end,18451
+home|softlines|h&a,744
+home|softlines|hbw,1852
+home|softlines|home,12938
+home|softlines|tech & toys,4730
+home|softlines|tour,41
+home|tech & toys|health & beauty,2209
+home|tech & toys|multi,4
+home|tech & toys|ttd - leisure,1813
+home|tour|tech & toys,19
+home|tour|ttd,5
+home|ttd|f&d,879
+home|ttd|hbw,1197
+home|ttd|tech & toys,676
+home|ttd|ttd,4183
+home|ttd|ttd - leisure,1500
+home|ttd - leisure|charity,1
+home|ttd - leisure|home,1803
+home|ttd - leisure|tech & toys,950
+home|ttd - leisure|unknown,2
+home|ttd - live|end,2688
+home|ttd - live|hbw,227
+home|ttd - live|retail,308
+home|ttd - live|tech & toys,177
+home|ttd - live|tour,3
+home|ttd - live|ttd - live,910
+home|unknown|health & beauty,35
+home|unknown|home,119
+home|unknown|hotel,8
+home|unknown|ttd - leisure,33
+home|unknown|ttd - live,7
+hotel|f&d|h&a,447
+hotel|f&d|home,338
+hotel|f&d|multi,5
+hotel|f&d|retail,1180
+hotel|h&a|f&d,441
+hotel|h&a|home,189
+hotel|hardlines|home,628
+hotel|hardlines|unknown,1
+hotel|hbw|f&d,998
+hotel|hbw|ttd,717
+hotel|hbw|ttd - leisure,2217
+hotel|health & beauty|h&a,117
+hotel|health & beauty|home,293
+hotel|health & beauty|ttd,204
+hotel|home|hbw,316
+hotel|home|softlines,688
+hotel|hotel|h&a,2095
+hotel|hotel|hbw,5615
+hotel|hotel|softlines,2386
+hotel|hotel|ttd - leisure,8232
+hotel|multi|end,20
+hotel|multi|f&d,1
+hotel|retail|f&d,843
+hotel|retail|hbw,1219
+hotel|retail|home,610
+hotel|retail|retail,6432
+hotel|retail|softlines,877
+hotel|softlines|end,3059
+hotel|softlines|ttd,191
+hotel|tech & toys|hbw,334
+hotel|tech & toys|hotel,479
+hotel|tech & toys|softlines,615
+hotel|tour|h&a,16
+hotel|tour|retail,24
+hotel|tour|tech & toys,13
+hotel|ttd|f&d,1399
+hotel|ttd|hardlines,346
+hotel|ttd|tech & toys,389
+hotel|ttd - leisure|end,20377
+hotel|ttd - leisure|f&d,1308
+hotel|ttd - leisure|health & beauty,162
+hotel|ttd - leisure|tour,49
+hotel|ttd - leisure|ttd - leisure,14192
+hotel|ttd - live|hotel,311
+hotel|ttd - live|unknown,1
+hotel|unknown|end,41
+hotel|unknown|h&a,3
+hotel|unknown|hardlines,9
+hotel|unknown|hbw,26
+hotel|unknown|tour,1
+hotel|unknown|ttd,4
+multi|f&d|home,2
+multi|f&d|multi,1
+multi|f&d|retail,10
+multi|f&d|softlines,5
+multi|h&a|end,138
+multi|h&a|multi,2
+multi|h&a|tech & toys,7
+multi|hardlines|hbw,3
+multi|hardlines|softlines,15
+multi|hardlines|ttd,1
+multi|hbw|retail,10
+multi|home|hardlines,9
+multi|home|ttd,2
+multi|hotel|hotel,10
+multi|hotel|tech & toys,1
+multi|hotel|ttd - leisure,4
+multi|multi|h&a,35
+multi|multi|hbw,22
+multi|multi|home,5
+multi|multi|hotel,5
+multi|multi|retail,24
+multi|multi|softlines,7
+multi|multi|ttd - leisure,15
+multi|retail|h&a,9
+multi|retail|hardlines,14
+multi|retail|hbw,8
+multi|retail|health & beauty,4
+multi|softlines|hardlines,8
+multi|softlines|ttd - leisure,6
+multi|tech & toys|hbw,4
+multi|tour|tour,1
+multi|ttd|end,12
+multi|ttd|h&a,5
+multi|ttd|retail,1
+multi|ttd|tech & toys,2
+multi|ttd - leisure|hardlines,8
+multi|ttd - leisure|health & beauty,1
+multi|ttd - leisure|multi,2
+multi|ttd - leisure|retail,11
+multi|ttd - leisure|ttd - live,5
+multi|ttd - live|softlines,2
+multi|ttd - live|ttd - live,9
+multi|unknown|unknown,1
+retail|f&d|hbw,7188
+retail|f&d|home,2447
+retail|f&d|softlines,3277
+retail|f&d|tour,65
+retail|h&a|retail,7564
+retail|h&a|unknown,36
+retail|hardlines|home,5519
+retail|hardlines|retail,10589
+retail|hardlines|tour,28
+retail|hbw|end,63753
+retail|hbw|h&a,3940
+retail|hbw|health & beauty,2370
+retail|hbw|ttd,3443
+retail|hbw|ttd - live,1662
+retail|health & beauty|end,10100
+retail|health & beauty|f&d,1376
+retail|health & beauty|home,2804
+retail|health & beauty|hotel,323
+retail|health & beauty|ttd,1084
+retail|home|home,18949
+retail|home|multi,3
+retail|home|retail,9215
+retail|home|ttd - leisure,2501
+retail|home|unknown,43
+retail|hotel|f&d,857
+retail|hotel|hotel,5457
+retail|hotel|multi,3
+retail|hotel|ttd,598
+retail|hotel|ttd - live,327
+retail|multi|end,54
+retail|multi|hardlines,5
+retail|multi|softlines,8
+retail|multi|ttd - live,1
+retail|retail|retail,309579
+retail|retail|tour,315
+retail|retail|ttd - live,5756
+retail|retail|unknown,400
+retail|softlines|multi,9
+retail|softlines|softlines,38806
+retail|tech & toys|end,23830
+retail|tech & toys|hbw,2216
+retail|tech & toys|multi,9
+retail|tech & toys|retail,9727
+retail|tech & toys|ttd,878
+retail|tech & toys|ttd - live,475
+retail|tech & toys|unknown,48
+retail|tour|f&d,39
+retail|tour|hotel,34
+retail|tour|softlines,38
+retail|tour|ttd,26
+retail|tour|ttd - leisure,85
+retail|ttd|end,14089
+retail|ttd|h&a,2104
+retail|ttd|hbw,6068
+retail|ttd|health & beauty,1724
+retail|ttd|hotel,1074
+retail|ttd - leisure|f&d,5746
+retail|ttd - leisure|hbw,7737
+retail|ttd - leisure|health & beauty,758
+retail|ttd - leisure|ttd - leisure,54265
+retail|ttd - leisure|ttd - live,2792
+retail|ttd - live|end,13134
+retail|ttd - live|f&d,794
+retail|ttd - live|hbw,1127
+retail|ttd - live|health & beauty,129
+retail|ttd - live|retail,2657
+retail|ttd - live|softlines,613
+retail|ttd - live|tour,16
+retail|unknown|end,425
+retail|unknown|h&a,35
+retail|unknown|hardlines,60
+retail|unknown|health & beauty,52
+retail|unknown|retail,247
+retail|unknown|ttd,27
+softlines|charity|ttd - leisure,2
+softlines|f&d|softlines,3851
+softlines|f&d|tour,10
+softlines|f&d|ttd - leisure,1637
+softlines|h&a|hbw,895
+softlines|h&a|health & beauty,310
+softlines|h&a|home,634
+softlines|h&a|tour,7
+softlines|hardlines|f&d,1033
+softlines|hardlines|health & beauty,2423
+softlines|hardlines|retail,3634
+softlines|hbw|hotel,346
+softlines|health & beauty|f&d,1014
+softlines|health & beauty|home,3696
+softlines|health & beauty|retail,2634
+softlines|health & beauty|ttd,1017
+softlines|home|end,17557
+softlines|home|f&d,1142
+softlines|home|softlines,19944
+softlines|home|unknown,76
+softlines|hotel|home,252
+softlines|hotel|tour,8
+softlines|hotel|ttd - leisure,489
+softlines|multi|hardlines,8
+softlines|multi|retail,6
+softlines|retail|f&d,1775
+softlines|retail|hotel,458
+softlines|retail|ttd - leisure,2824
+softlines|softlines|charity,6
+softlines|softlines|h&a,5603
+softlines|softlines|tour,210
+softlines|softlines|ttd - live,2444
+softlines|tech & toys|hardlines,5743
+softlines|tech & toys|hbw,1494
+softlines|tech & toys|retail,3178
+softlines|tech & toys|softlines,16071
+softlines|tech & toys|tour,20
+softlines|tech & toys|ttd,779
+softlines|tour|f&d,12
+softlines|tour|health & beauty,15
+softlines|tour|retail,35
+softlines|ttd|f&d,1388
+softlines|ttd|multi,2
+softlines|ttd|softlines,3846
+softlines|ttd - leisure|multi,1
+softlines|ttd - leisure|softlines,3260
+softlines|ttd - live|h&a,97
+softlines|ttd - live|tour,4
+softlines|unknown|h&a,12
+softlines|unknown|hardlines,60
+softlines|unknown|hbw,55
+softlines|unknown|home,68
+softlines|unknown|tech & toys,51
+softlines|unknown|tour,1
+softlines|unknown|ttd,11
+tech & toys|charity|retail,1
+tech & toys|f&d|hotel,229
+tech & toys|f&d|ttd,771
+tech & toys|f&d|ttd - live,249
+tech & toys|h&a|end,6373
+tech & toys|h&a|charity,1
+tech & toys|h&a|health & beauty,303
+tech & toys|h&a|home,569
+tech & toys|h&a|softlines,686
+tech & toys|h&a|unknown,15
+tech & toys|hardlines|hbw,1449
+tech & toys|hardlines|health & beauty,1768
+tech & toys|hardlines|home,5172
+tech & toys|hardlines|hotel,269
+tech & toys|hardlines|tech & toys,11941
+tech & toys|hardlines|tour,17
+tech & toys|hardlines|unknown,44
+tech & toys|hbw|end,13304
+tech & toys|hbw|f&d,1121
+tech & toys|hbw|hbw,10052
+tech & toys|hbw|health & beauty,837
+tech & toys|hbw|ttd,791
+tech & toys|hbw|ttd - leisure,2110
+tech & toys|hbw|ttd - live,344
+tech & toys|health & beauty|f&d,756
+tech & toys|health & beauty|ttd,742
+tech & toys|health & beauty|ttd - leisure,1123
+tech & toys|health & beauty|ttd - live,190
+tech & toys|home|h&a,776
+tech & toys|home|hbw,1783
+tech & toys|hotel|h&a,116
+tech & toys|hotel|retail,343
+tech & toys|hotel|tech & toys,547
+tech & toys|multi|hardlines,4
+tech & toys|multi|multi,8
+tech & toys|retail|charity,1
+tech & toys|retail|f&d,1428
+tech & toys|retail|home,2232
+tech & toys|retail|multi,3
+tech & toys|retail|softlines,3243
+tech & toys|softlines|end,17106
+tech & toys|softlines|h&a,683
+tech & toys|softlines|softlines,29272
+tech & toys|tech & toys|h&a,4049
+tech & toys|tech & toys|retail,14362
+tech & toys|tour|hbw,12
+tech & toys|tour|ttd - live,4
+tech & toys|ttd|end,3515
+tech & toys|ttd|h&a,608
+tech & toys|ttd|hardlines,785
+tech & toys|ttd|retail,1634
+tech & toys|ttd|tour,29
+tech & toys|ttd - leisure|h&a,658
+tech & toys|ttd - leisure|hardlines,1454
+tech & toys|ttd - leisure|hotel,323
+tech & toys|ttd - live|h&a,97
+tech & toys|ttd - live|hbw,237
+tech & toys|ttd - live|health & beauty,45
+tech & toys|ttd - live|tech & toys,445
+tech & toys|ttd - live|ttd - leisure,588
+tech & toys|unknown|home,48
+tech & toys|unknown|hotel,8
+tech & toys|unknown|tech & toys,174
+tour|f&d|h&a,31
+tour|f&d|hbw,83
+tour|f&d|hotel,25
+tour|f&d|retail,57
+tour|f&d|tech & toys,18
+tour|f&d|ttd - leisure,85
+tour|h&a|h&a,196
+tour|h&a|health & beauty,4
+tour|h&a|ttd - leisure,73
+tour|hardlines|h&a,12
+tour|hardlines|tech & toys,34
+tour|hbw|hardlines,75
+tour|hbw|home,56
+tour|hbw|tech & toys,34
+tour|health & beauty|end,82
+tour|health & beauty|hardlines,30
+tour|health & beauty|health & beauty,97
+tour|health & beauty|home,28
+tour|health & beauty|hotel,14
+tour|health & beauty|retail,35
+tour|health & beauty|tour,14
+tour|health & beauty|ttd,14
+tour|health & beauty|ttd - live,4
+tour|home|h&a,18
+tour|home|hotel,12
+tour|home|ttd - leisure,33
+tour|hotel|hbw,56
+tour|hotel|tour,38
+tour|hotel|ttd - live,11
+tour|multi|tech & toys,1
+tour|retail|end,650
+tour|retail|f&d,45
+tour|retail|h&a,23
+tour|retail|home,41
+tour|retail|retail,391
+tour|softlines|end,213
+tour|softlines|hardlines,45
+tour|softlines|hbw,43
+tour|softlines|ttd - leisure,44
+tour|softlines|ttd - live,5
+tour|softlines|unknown,1
+tour|tech & toys|end,195
+tour|tech & toys|hardlines,41
+tour|tech & toys|tech & toys,164
+tour|tech & toys|tour,18
+tour|tech & toys|ttd - live,5
+tour|tour|h&a,268
+tour|tour|hbw,802
+tour|tour|softlines,294
+tour|ttd|home,23
+tour|ttd|multi,1
+tour|ttd|softlines,23
+tour|ttd|tech & toys,30
+tour|ttd|tour,36
+tour|ttd - leisure|end,1164
+tour|ttd - leisure|hbw,130
+tour|ttd - leisure|hotel,58
+tour|ttd - live|softlines,9
+tour|ttd - live|tour,6
+tour|unknown|end,6
+tour|unknown|h&a,1
+tour|unknown|tour,1
+tour|unknown|ttd - leisure,1
+ttd|charity|f&d,3
+ttd|charity|softlines,3
+ttd|charity|ttd - leisure,4
+ttd|f&d|multi,11
+ttd|f&d|retail,12296
+ttd|f&d|tour,116
+ttd|f&d|ttd - leisure,23484
+ttd|h&a|home,1329
+ttd|h&a|hotel,792
+ttd|h&a|retail,4624
+ttd|h&a|tour,61
+ttd|h&a|ttd,4850
+ttd|hardlines|hotel,421
+ttd|hardlines|tech & toys,2742
+ttd|hardlines|ttd,2350
+ttd|hardlines|ttd - leisure,4238
+ttd|hbw|end,73055
+ttd|hbw|f&d,10584
+ttd|hbw|h&a,5983
+ttd|hbw|hbw,72152
+ttd|hbw|health & beauty,3201
+ttd|hbw|retail,12468
+ttd|hbw|softlines,4449
+ttd|hbw|ttd,15140
+ttd|health & beauty|h&a,943
+ttd|health & beauty|hardlines,2965
+ttd|health & beauty|softlines,3083
+ttd|home|unknown,51
+ttd|hotel|end,11484
+ttd|hotel|f&d,1642
+ttd|hotel|tech & toys,634
+ttd|multi|hbw,14
+ttd|multi|home,6
+ttd|multi|hotel,5
+ttd|multi|retail,20
+ttd|multi|ttd,9
+ttd|multi|ttd - live,7
+ttd|retail|end,65535
+ttd|retail|hardlines,5025
+ttd|retail|home,4120
+ttd|retail|multi,11
+ttd|retail|softlines,5955
+ttd|retail|tour,129
+ttd|softlines|hbw,2919
+ttd|softlines|tour,54
+ttd|softlines|ttd,3677
+ttd|tech & toys|charity,1
+ttd|tech & toys|home,3316
+ttd|tech & toys|multi,3
+ttd|tour|f&d,86
+ttd|tour|h&a,65
+ttd|tour|retail,128
+ttd|ttd|charity,23
+ttd|ttd|h&a,19325
+ttd|ttd|hardlines,11854
+ttd|ttd|hbw,52735
+ttd|ttd|unknown,695
+ttd|ttd - leisure|hbw,15709
+ttd|ttd - leisure|ttd - leisure,134952
+ttd|ttd - live|health & beauty,277
+ttd|ttd - live|retail,2401
+ttd|ttd - live|tour,35
+ttd|unknown|f&d,127
+ttd|unknown|h&a,61
+ttd|unknown|hardlines,62
+ttd|unknown|hotel,27
+ttd|unknown|retail,169
+ttd|unknown|tour,4
+ttd|unknown|ttd - leisure,304
+ttd|unknown|unknown,490
+ttd - leisure|charity|end,23
+ttd - leisure|charity|home,1
+ttd - leisure|f&d|multi,4
+ttd - leisure|f&d|softlines,1757
+ttd - leisure|f&d|ttd - leisure,17256
+ttd - leisure|f&d|unknown,5
+ttd - leisure|h&a|f&d,1559
+ttd - leisure|h&a|h&a,10233
+ttd - leisure|h&a|hotel,349
+ttd - leisure|h&a|ttd - leisure,6663
+ttd - leisure|hardlines|end,28695
+ttd - leisure|hardlines|f&d,954
+ttd - leisure|hardlines|h&a,607
+ttd - leisure|hardlines|hbw,1907
+ttd - leisure|hardlines|health & beauty,299
+ttd - leisure|hardlines|tech & toys,3288
+ttd - leisure|hardlines|unknown,5
+ttd - leisure|hbw|end,80691
+ttd - leisure|hbw|f&d,3816
+ttd - leisure|hbw|health & beauty,462
+ttd - leisure|hbw|hotel,943
+ttd - leisure|hbw|retail,5711
+ttd - leisure|hbw|softlines,2248
+ttd - leisure|hbw|tour,91
+ttd - leisure|hbw|ttd - live,1973
+ttd - leisure|health & beauty|h&a,202
+ttd - leisure|health & beauty|multi,1
+ttd - leisure|health & beauty|tour,6
+ttd - leisure|health & beauty|ttd - leisure,1960
+ttd - leisure|health & beauty|ttd - live,183
+ttd - leisure|home|hbw,1167
+ttd - leisure|home|tech & toys,2757
+ttd - leisure|home|tour,15
+ttd - leisure|hotel|f&d,663
+ttd - leisure|hotel|health & beauty,45
+ttd - leisure|hotel|multi,1
+ttd - leisure|hotel|softlines,462
+ttd - leisure|hotel|ttd - leisure,3529
+ttd - leisure|hotel|unknown,3
+ttd - leisure|multi|retail,1
+ttd - leisure|multi|ttd - leisure,18
+ttd - leisure|multi|ttd - live,3
+ttd - leisure|retail|charity,5
+ttd - leisure|retail|hbw,5009
+ttd - leisure|retail|ttd - live,1633
+ttd - leisure|retail|unknown,15
+ttd - leisure|softlines|end,18757
+ttd - leisure|softlines|hardlines,3515
+ttd - leisure|softlines|hbw,1359
+ttd - leisure|softlines|home,2474
+ttd - leisure|softlines|softlines,18703
+ttd - leisure|softlines|tech & toys,2559
+ttd - leisure|softlines|ttd - leisure,4314
+ttd - leisure|tech & toys|hotel,263
+ttd - leisure|tech & toys|softlines,2681
+ttd - leisure|tech & toys|tour,10
+ttd - leisure|tech & toys|ttd - leisure,4164
+ttd - leisure|tech & toys|unknown,6
+ttd - leisure|tour|f&d,20
+ttd - leisure|tour|hbw,62
+ttd - leisure|tour|home,8
+ttd - leisure|tour|tour,556
+ttd - leisure|ttd - leisure|h&a,13690
+ttd - leisure|ttd - leisure|hotel,7685
+ttd - leisure|ttd - leisure|multi,21
+ttd - leisure|ttd - leisure|softlines,13468
+ttd - leisure|ttd - leisure|ttd - leisure,407877
+ttd - leisure|ttd - live|health & beauty,131
+ttd - leisure|ttd - live|retail,2050
+ttd - leisure|ttd - live|tech & toys,708
+ttd - leisure|unknown|hardlines,2
+ttd - leisure|unknown|hbw,2
+ttd - leisure|unknown|tech & toys,3
+ttd - leisure|unknown|ttd - leisure,11
+ttd - live|f&d|end,5834
+ttd - live|f&d|f&d,2519
+ttd - live|f&d|hbw,542
+ttd - live|f&d|ttd - leisure,1324
+ttd - live|h&a|h&a,1285
+ttd - live|h&a|home,109
+ttd - live|h&a|retail,278
+ttd - live|hardlines|f&d,139
+ttd - live|hardlines|hardlines,2370
+ttd - live|hardlines|ttd - live,330
+ttd - live|hbw|h&a,307
+ttd - live|hbw|home,263
+ttd - live|hbw|multi,1
+ttd - live|hbw|tech & toys,234
+ttd - live|hbw|unknown,1
+ttd - live|home|f&d,105
+ttd - live|home|hbw,180
+ttd - live|home|home,1487
+ttd - live|home|tech & toys,429
+ttd - live|home|tour,2
+ttd - live|hotel|h&a,42
+ttd - live|hotel|hbw,120
+ttd - live|hotel|tour,3
+ttd - live|multi|home,1
+ttd - live|multi|softlines,1
+ttd - live|multi|tech & toys,1
+ttd - live|retail|hbw,657
+ttd - live|retail|ttd - live,699
+ttd - live|softlines|f&d,119
+ttd - live|softlines|ttd - leisure,406
+ttd - live|tech & toys|end,2738
+ttd - live|tech & toys|health & beauty,46
+ttd - live|tour|end,102
+ttd - live|tour|h&a,3
+ttd - live|tour|softlines,4
+ttd - live|tour|ttd - live,6
+ttd - live|ttd - leisure|end,22964
+ttd - live|ttd - leisure|f&d,1437
+ttd - live|ttd - leisure|hbw,1963
+ttd - live|ttd - leisure|health & beauty,133
+ttd - live|ttd - live|charity,1
+ttd - live|ttd - live|health & beauty,275
+unknown|f&d|hardlines,34
+unknown|f&d|health & beauty,15
+unknown|f&d|hotel,6
+unknown|f&d|softlines,31
+unknown|f&d|ttd - live,9
+unknown|f&d|unknown,36
+unknown|h&a|hardlines,22
+unknown|h&a|health & beauty,9
+unknown|h&a|retail,31
+unknown|hardlines|home,65
+unknown|hbw|home,62
+unknown|hbw|retail,156
+unknown|hbw|softlines,76
+unknown|hbw|tech & toys,60
+unknown|hbw|ttd,19
+unknown|health & beauty|hbw,70
+unknown|health & beauty|ttd,6
+unknown|health & beauty|ttd - live,9
+unknown|health & beauty|unknown,14
+unknown|home|hardlines,62
+unknown|home|hotel,5
+unknown|home|tech & toys,52
+unknown|home|ttd,2
+unknown|home|unknown,5
+unknown|hotel|health & beauty,3
+unknown|hotel|tech & toys,2
+unknown|hotel|ttd,1
+unknown|hotel|ttd - leisure,16
+unknown|retail|tech & toys,61
+unknown|retail|ttd,6
+unknown|retail|unknown,22
+unknown|softlines|retail,72
+unknown|softlines|tech & toys,61
+unknown|tech & toys|h&a,9
+unknown|tech & toys|hotel,5
+unknown|tech & toys|ttd - leisure,36
+unknown|tech & toys|ttd - live,9
+unknown|tech & toys|unknown,2
+unknown|tour|health & beauty,1
+unknown|ttd|end,123
+unknown|ttd|h&a,16
+unknown|ttd|home,11
+unknown|ttd|hotel,7
+unknown|ttd - leisure|f&d,61
+unknown|ttd - leisure|h&a,28
+unknown|ttd - leisure|retail,85
+unknown|ttd - live|h&a,4
+unknown|ttd - live|retail,11
+unknown|ttd - live|softlines,3
+unknown|unknown|end,1552
+unknown|unknown|hotel,31
+charity|charity|end,31
+charity|charity|charity,10
+charity|charity|h&a,1
+charity|charity|ttd - leisure,9
+charity|f&d|charity,1
+charity|h&a|end,7
+charity|h&a|hbw,1
+charity|hardlines|end,3
+charity|hbw|softlines,1
+charity|hbw|ttd - leisure,2
+charity|health & beauty|end,1
+charity|home|hardlines,1
+charity|home|softlines,2
+charity|retail|charity,1
+charity|retail|f&d,2
+charity|retail|hardlines,3
+charity|retail|home,1
+charity|tech & toys|tech & toys,1
+charity|ttd|f&d,3
+charity|ttd - leisure|f&d,7
+charity|ttd - leisure|hardlines,2
+charity|ttd - live|end,1
+f&d|charity|end,11
+f&d|charity|f&d,5
+f&d|charity|h&a,1
+f&d|charity|ttd,1
+f&d|f&d|f&d,364946
+f&d|f&d|h&a,19461
+f&d|f&d|multi,29
+f&d|f&d|unknown,371
+f&d|h&a|home,1297
+f&d|h&a|retail,4776
+f&d|hardlines|end,27036
+f&d|hardlines|h&a,1077
+f&d|hardlines|retail,3970
+f&d|hardlines|tech & toys,3368
+f&d|hardlines|ttd - leisure,2700
+f&d|hardlines|ttd - live,504
+f&d|hbw|charity,5
+f&d|hbw|h&a,4990
+f&d|hbw|ttd,4353
+f&d|hbw|ttd - leisure,13564
+f&d|health & beauty|charity,1
+f&d|health & beauty|health & beauty,8239
+f&d|health & beauty|home,1771
+f&d|health & beauty|hotel,275
+f&d|health & beauty|multi,2
+f&d|health & beauty|retail,2592
+f&d|health & beauty|softlines,2325
+f&d|health & beauty|tour,23
+f&d|home|h&a,860
+f&d|home|hotel,317
+f&d|home|tech & toys,3186
+f&d|hotel|end,9620
+f&d|hotel|hardlines,469
+f&d|multi|end,38
+f&d|multi|hbw,11
+f&d|multi|multi,27
+f&d|multi|ttd - leisure,11
+f&d|retail|tech & toys,4554
+f&d|softlines|hbw,2509
+f&d|softlines|multi,6
+f&d|softlines|tech & toys,3027
+f&d|softlines|unknown,51
+f&d|tech & toys|retail,3489
+f&d|tour|home,19
+f&d|tour|tech & toys,28
+f&d|tour|ttd - leisure,73
+f&d|tour|unknown,1
+f&d|ttd|end,21707
+f&d|ttd|hardlines,1904
+f&d|ttd|hbw,8346
+f&d|ttd|health & beauty,1788
+f&d|ttd|ttd - leisure,12897
+f&d|ttd|ttd - live,1797
+f&d|ttd|unknown,121
+f&d|ttd - leisure|charity,7
+f&d|ttd - leisure|health & beauty,762
+f&d|ttd - leisure|multi,4
+f&d|ttd - leisure|tour,107
+f&d|ttd - live|end,15646
+f&d|ttd - live|h&a,549
+f&d|ttd - live|multi,2
+f&d|ttd - live|retail,1604
+f&d|ttd - live|unknown,2
+f&d|unknown|ttd,58
+h&a|charity|end,4
+h&a|f&d|home,1168
+h&a|f&d|softlines,1346
+h&a|f&d|ttd - live,735
+h&a|f&d|unknown,50
+h&a|h&a|f&d,13273
+h&a|h&a|health & beauty,2770
+h&a|h&a|retail,14937
+h&a|h&a|softlines,6125
+h&a|h&a|ttd - live,3042
+h&a|hardlines|f&d,869
+h&a|hardlines|home,1852
+h&a|hardlines|retail,1592
+h&a|hardlines|softlines,1983
+h&a|hardlines|tech & toys,1768
+h&a|hardlines|ttd,314
+h&a|hbw|f&d,4176
+h&a|hbw|hardlines,2269
+h&a|hbw|hbw,34873
+h&a|hbw|health & beauty,1151
+h&a|hbw|home,1762
+h&a|health & beauty|hardlines,1200
+h&a|health & beauty|health & beauty,3868
+h&a|health & beauty|softlines,1101
+h&a|health & beauty|tech & toys,820
+h&a|health & beauty|ttd,403
+h&a|home|f&d,707
+h&a|home|multi,3
+h&a|home|ttd - leisure,993
+h&a|home|unknown,17
+h&a|hotel|end,4269
+h&a|hotel|f&d,433
+h&a|hotel|h&a,1280
+h&a|hotel|hardlines,222
+h&a|hotel|health & beauty,89
+h&a|hotel|softlines,226
+h&a|hotel|tour,15
+h&a|hotel|ttd,291
+h&a|multi|f&d,7
+h&a|multi|hardlines,7
+h&a|multi|multi,34
+h&a|retail|charity,1
+h&a|retail|h&a,9092
+h&a|retail|hbw,4698
+h&a|retail|health & beauty,876
+h&a|retail|unknown,39
+h&a|softlines|end,8300
+h&a|softlines|hbw,1238
+h&a|softlines|tech & toys,1459
+h&a|softlines|tour,13
+h&a|tech & toys|h&a,3142
+h&a|tech & toys|hardlines,1843
+h&a|tech & toys|ttd,378
+h&a|tech & toys|ttd - live,207
+h&a|tour|end,280
+h&a|tour|f&d,25
+h&a|tour|hotel,17
+h&a|tour|ttd - leisure,51
+h&a|ttd|end,7605
+h&a|ttd|hbw,3540
+h&a|ttd|health & beauty,676
+h&a|ttd|home,724
+h&a|ttd|multi,15
+h&a|ttd|tour,52
+h&a|ttd - leisure|end,45788
+h&a|ttd - leisure|hardlines,1809
+h&a|ttd - leisure|hbw,5028
+h&a|ttd - leisure|health & beauty,382
+h&a|ttd - leisure|tour,35
+h&a|ttd - live|end,6950
+h&a|ttd - live|hbw,721
+h&a|ttd - live|retail,615
+h&a|ttd - live|softlines,272
+h&a|ttd - live|ttd - live,2356
+h&a|unknown|f&d,36
+h&a|unknown|ttd,17
+hardlines|charity|end,6
+hardlines|charity|hardlines,4
+hardlines|f&d|softlines,1142
+hardlines|f&d|unknown,25
+hardlines|h&a|h&a,3340
+hardlines|h&a|health & beauty,222
+hardlines|h&a|multi,3
+hardlines|h&a|retail,915
+hardlines|hardlines|hotel,1235
+hardlines|hardlines|multi,20
+hardlines|hardlines|tour,100
+hardlines|hbw|h&a,769
+hardlines|hbw|hotel,247
+hardlines|hbw|multi,3
+hardlines|hbw|retail,2132
+hardlines|health & beauty|multi,3
+hardlines|health & beauty|tour,14
+hardlines|health & beauty|ttd - live,146
+hardlines|home|end,20375
+hardlines|home|home,18441
+hardlines|home|hotel,276
+hardlines|home|ttd,574
+hardlines|hotel|health & beauty,73
+hardlines|hotel|tour,5
+hardlines|multi|end,25
+hardlines|multi|h&a,1
+hardlines|multi|hardlines,13
+hardlines|multi|home,6
+hardlines|multi|multi,4
+hardlines|multi|tech & toys,2
+hardlines|retail|hardlines,6338
+hardlines|retail|hbw,2058
+hardlines|retail|health & beauty,1010
+hardlines|retail|home,2554
+hardlines|retail|multi,1
+hardlines|retail|softlines,3256
+hardlines|softlines|hbw,1713
+hardlines|softlines|health & beauty,2515
+hardlines|softlines|multi,7
+hardlines|softlines|tech & toys,5581
+hardlines|softlines|ttd,660
+hardlines|tech & toys|charity,1
+hardlines|tech & toys|health & beauty,1681
+hardlines|tech & toys|tour,17
+hardlines|tech & toys|ttd - live,246
+hardlines|tour|health & beauty,3
+hardlines|ttd|h&a,473
+hardlines|ttd|hbw,984
+hardlines|ttd|hotel,178
+hardlines|ttd|multi,2
+hardlines|ttd - leisure|ttd - live,503
+hardlines|unknown|end,173
+hardlines|unknown|f&d,21
+hardlines|unknown|hbw,33
+hardlines|unknown|ttd - live,1
+hardlines|unknown|unknown,159
+hbw|charity|softlines,1
+hbw|charity|ttd,2
+hbw|f&d|unknown,127
+hbw|h&a|h&a,23170
+hbw|h&a|home,1717
+hbw|h&a|ttd - live,996
+hbw|hardlines|h&a,1206
+hbw|hardlines|softlines,4996
+hbw|hardlines|ttd - live,572
+hbw|hardlines|unknown,37
+hbw|hbw|home,18810
+hbw|hbw|ttd - leisure,75698
+hbw|health & beauty|f&d,1678
+hbw|health & beauty|hbw,12049
+hbw|health & beauty|retail,3304
+hbw|health & beauty|softlines,3691
+hbw|health & beauty|tech & toys,2199
+hbw|health & beauty|unknown,81
+hbw|home|f&d,1473
+hbw|home|h&a,1169
+hbw|home|retail,3267
+hbw|home|softlines,4600
+hbw|home|tour,32
+hbw|home|ttd,789
+hbw|home|ttd - leisure,2622
+hbw|home|unknown,35
+hbw|hotel|f&d,965
+hbw|hotel|h&a,590
+hbw|hotel|health & beauty,293
+hbw|hotel|tech & toys,404
+hbw|hotel|ttd - live,413
+hbw|multi|hbw,31
+hbw|multi|ttd - live,4
+hbw|retail|charity,3
+hbw|retail|hbw,32907
+hbw|retail|tech & toys,3929
+hbw|retail|ttd - live,1924
+hbw|softlines|hardlines,4861
+hbw|softlines|hotel,450
+hbw|softlines|tech & toys,3427
+hbw|softlines|tour,46
+hbw|tech & toys|end,17843
+hbw|tech & toys|tech & toys,14321
+hbw|tech & toys|unknown,41
+hbw|tour|end,977
+hbw|tour|h&a,56
+hbw|tour|hotel,49
+hbw|tour|tour,982
+hbw|tour|unknown,4
+hbw|ttd|charity,1
+hbw|ttd|multi,6
+hbw|ttd|tech & toys,1822
+hbw|ttd|ttd,30142
+hbw|ttd|ttd - leisure,11934
+hbw|ttd|unknown,206
+hbw|ttd - leisure|charity,2
+hbw|ttd - leisure|f&d,7688
+hbw|ttd - leisure|h&a,4529
+hbw|ttd - leisure|retail,10412
+hbw|ttd - leisure|unknown,9
+hbw|ttd - live|hardlines,864
+hbw|ttd - live|hbw,5147
+hbw|ttd - live|health & beauty,160
+hbw|ttd - live|hotel,257
+hbw|unknown|end,951
+hbw|unknown|h&a,104
+hbw|unknown|home,72
+health & beauty|charity|end,4
+health & beauty|charity|hbw,1
+health & beauty|f&d|f&d,6218
+health & beauty|f&d|health & beauty,1975
+health & beauty|f&d|multi,4
+health & beauty|f&d|tour,11
+health & beauty|f&d|ttd,906
+health & beauty|h&a|f&d,625
+health & beauty|h&a|home,514
+health & beauty|h&a|multi,1
+health & beauty|h&a|retail,1002
+health & beauty|h&a|ttd,341
+health & beauty|h&a|ttd - live,158
+health & beauty|hardlines|home,3955
+health & beauty|hardlines|tech & toys,3560
+health & beauty|hardlines|tour,18
+health & beauty|hbw|f&d,1658
+health & beauty|hbw|health & beauty,4026
+health & beauty|hbw|home,1721
+health & beauty|health & beauty|charity,2
+health & beauty|health & beauty|health & beauty,88109
+health & beauty|health & beauty|hotel,1350
+health & beauty|health & beauty|multi,25
+health & beauty|health & beauty|ttd - live,1273
+health & beauty|home|end,10362
+health & beauty|home|f&d,861
+health & beauty|home|h&a,624
+health & beauty|home|hbw,1820
+health & beauty|home|unknown,65
+health & beauty|multi|end,28
+health & beauty|multi|f&d,1
+health & beauty|multi|home,4
+health & beauty|multi|retail,3
+health & beauty|retail|health & beauty,3893
+health & beauty|softlines|f&d,1107
+health & beauty|softlines|health & beauty,9737
+health & beauty|softlines|hotel,324
+health & beauty|softlines|multi,7
+health & beauty|tech & toys|h&a,561
+health & beauty|tech & toys|hbw,1495
+health & beauty|tech & toys|health & beauty,5680
+health & beauty|tour|f&d,13
+health & beauty|tour|hardlines,36
+health & beauty|tour|hotel,9
+health & beauty|tour|softlines,28
+health & beauty|tour|unknown,1
+health & beauty|ttd|h&a,598
+health & beauty|ttd|tech & toys,896
+health & beauty|ttd|ttd - live,399
+health & beauty|ttd - leisure|h&a,580
+health & beauty|ttd - leisure|hardlines,2434
+health & beauty|ttd - leisure|health & beauty,918
+health & beauty|ttd - leisure|softlines,1046
+health & beauty|ttd - live|ttd - live,958
+health & beauty|unknown|f&d,33
+health & beauty|unknown|hbw,79
+health & beauty|unknown|health & beauty,160
+health & beauty|unknown|retail,59
+health & beauty|unknown|unknown,241
+home|charity|charity,1
+home|charity|h&a,1
+home|charity|retail,1
+home|f&d|multi,2
+home|f&d|softlines,1140
+home|f&d|tour,12
+home|f&d|ttd,627
+home|f&d|unknown,27
+home|h&a|end,5223
+home|h&a|health & beauty,285
+home|h&a|hotel,102
+home|h&a|ttd - live,116
+home|hardlines|end,22907
+home|hardlines|softlines,7177
+home|hardlines|ttd - live,336
+home|hardlines|unknown,53
+home|hbw|hardlines,1748
+home|hbw|retail,2329
+home|hbw|tech & toys,1128
+home|health & beauty|end,7094
+home|health & beauty|f&d,769
+home|health & beauty|health & beauty,9168
+home|health & beauty|home,6958
+home|health & beauty|hotel,231
+home|health & beauty|retail,2088
+home|home|ttd,3714
+home|home|ttd - live,1409
+home|home|unknown,276
+home|hotel|retail,348
+home|hotel|ttd - leisure,371
+home|multi|hbw,4
+home|multi|ttd - leisure,3
+home|retail|health & beauty,1177
+home|retail|home,5075
+home|retail|multi,3
+home|retail|softlines,3498
+home|softlines|health & beauty,3162
+home|softlines|ttd - live,329
+home|softlines|unknown,89
+home|tech & toys|hbw,1874
+home|tech & toys|hotel,351
+home|tour|multi,1
+home|ttd|charity,1
+home|ttd|retail,1376
+home|ttd|tour,15
+home|ttd|ttd - live,250
+home|ttd|unknown,28
+home|ttd - leisure|hardlines,1286
+home|ttd - leisure|hotel,299
+home|ttd - leisure|ttd - leisure,9060
+home|ttd - leisure|ttd - live,489
+home|ttd - live|home,340
+home|ttd - live|softlines,228
+home|unknown|f&d,27
+home|unknown|h&a,8
+home|unknown|hardlines,48
+home|unknown|ttd,9
+home|unknown|unknown,178
+hotel|f&d|end,6591
+hotel|f&d|hbw,1145
+hotel|f&d|tech & toys,337
+hotel|h&a|end,4152
+hotel|h&a|h&a,2298
+hotel|h&a|hbw,606
+hotel|h&a|multi,3
+hotel|h&a|softlines,226
+hotel|h&a|tech & toys,218
+hotel|h&a|unknown,4
+hotel|hardlines|end,4013
+hotel|hardlines|f&d,199
+hotel|hardlines|h&a,138
+hotel|hardlines|health & beauty,176
+hotel|hardlines|retail,516
+hotel|hardlines|tour,5
+hotel|hbw|end,11272
+hotel|hbw|hardlines,604
+hotel|hbw|home,486
+hotel|hbw|retail,1351
+hotel|health & beauty|hardlines,382
+hotel|health & beauty|retail,370
+hotel|health & beauty|softlines,387
+hotel|health & beauty|ttd - leisure,377
+hotel|health & beauty|ttd - live,58
+hotel|home|hardlines,633
+hotel|home|health & beauty,229
+hotel|home|home,2420
+hotel|home|tour,9
+hotel|home|ttd,140
+hotel|hotel|hardlines,2001
+hotel|hotel|health & beauty,1055
+hotel|hotel|home,1867
+hotel|hotel|multi,9
+hotel|hotel|retail,4967
+hotel|multi|ttd - leisure,5
+hotel|retail|h&a,416
+hotel|retail|hardlines,766
+hotel|retail|health & beauty,302
+hotel|retail|tour,25
+hotel|softlines|f&d,236
+hotel|softlines|hbw,365
+hotel|softlines|health & beauty,283
+hotel|softlines|hotel,526
+hotel|softlines|retail,591
+hotel|softlines|ttd - leisure,540
+hotel|softlines|ttd - live,92
+hotel|tech & toys|charity,1
+hotel|tech & toys|hardlines,643
+hotel|tech & toys|tech & toys,2532
+hotel|tour|end,316
+hotel|tour|hotel,74
+hotel|tour|tour,347
+hotel|tour|ttd,13
+hotel|tour|ttd - live,15
+hotel|ttd|charity,1
+hotel|ttd|health & beauty,347
+hotel|ttd|home,384
+hotel|ttd|hotel,1763
+hotel|ttd|ttd,6162
+hotel|ttd - leisure|hardlines,813
+hotel|ttd - leisure|home,509
+hotel|ttd - leisure|hotel,2134
+hotel|ttd - leisure|retail,1850
+hotel|ttd - leisure|softlines,698
+hotel|ttd - leisure|unknown,1
+hotel|ttd - live|f&d,180
+hotel|ttd - live|h&a,103
+hotel|ttd - live|hardlines,152
+hotel|ttd - live|hbw,256
+hotel|ttd - live|softlines,148
+hotel|ttd - live|tour,6
+hotel|unknown|hotel,14
+hotel|unknown|softlines,11
+hotel|unknown|unknown,47
+multi|f&d|end,38
+multi|f&d|hbw,6
+multi|f&d|hotel,2
+multi|h&a|hardlines,4
+multi|h&a|health & beauty,2
+multi|h&a|home,3
+multi|h&a|hotel,2
+multi|h&a|retail,6
+multi|h&a|tour,1
+multi|h&a|ttd - live,2
+multi|hardlines|end,40
+multi|hardlines|h&a,3
+multi|hardlines|hardlines,22
+multi|hardlines|health & beauty,4
+multi|hardlines|home,6
+multi|hardlines|hotel,1
+multi|hardlines|ttd - leisure,5
+multi|hbw|home,1
+multi|health & beauty|h&a,3
+multi|health & beauty|health & beauty,12
+multi|health & beauty|home,6
+multi|health & beauty|ttd - leisure,2
+multi|health & beauty|ttd - live,2
+multi|home|f&d,3
+multi|home|softlines,4
+multi|home|tech & toys,5
+multi|hotel|hbw,3
+multi|hotel|ttd,1
+multi|hotel|ttd - live,1
+multi|multi|end,153
+multi|multi|f&d,15
+multi|multi|ttd - live,5
+multi|retail|f&d,4
+multi|retail|softlines,8
+multi|retail|tech & toys,1
+multi|retail|ttd,1
+multi|softlines|hbw,4
+multi|softlines|home,7
+multi|softlines|softlines,40
+multi|tech & toys|end,17
+multi|tech & toys|h&a,4
+multi|tech & toys|health & beauty,2
+multi|tech & toys|softlines,8
+multi|tech & toys|tech & toys,23
+multi|tech & toys|ttd - leisure,4
+multi|tour|retail,1
+multi|ttd|f&d,1
+multi|ttd|hardlines,1
+multi|ttd|hbw,4
+multi|ttd - leisure|h&a,23
+multi|ttd - live|end,21
+multi|ttd - live|health & beauty,1
+multi|ttd - live|retail,1
+multi|ttd - live|tech & toys,1
+multi|ttd - live|ttd - leisure,6
+multi|unknown|h&a,1
+retail|charity|charity,3
+retail|charity|hardlines,2
+retail|charity|softlines,1
+retail|f&d|f&d,29334
+retail|f&d|h&a,2993
+retail|f&d|health & beauty,1471
+retail|f&d|tech & toys,2418
+retail|f&d|ttd - leisure,9158
+retail|f&d|ttd - live,1334
+retail|h&a|hotel,474
+retail|h&a|multi,9
+retail|h&a|ttd,1202
+retail|hardlines|hotel,418
+retail|hardlines|softlines,6767
+retail|hardlines|unknown,42
+retail|hbw|charity,4
+retail|hbw|home,3396
+retail|hbw|multi,8
+retail|hbw|softlines,4228
+retail|hbw|tech & toys,2977
+retail|hbw|tour,125
+retail|health & beauty|hardlines,3597
+retail|health & beauty|hbw,2662
+retail|health & beauty|health & beauty,10797
+retail|health & beauty|ttd - leisure,2165
+retail|home|charity,1
+retail|home|ttd - live,451
+retail|hotel|end,9462
+retail|hotel|charity,1
+retail|hotel|hardlines,615
+retail|hotel|ttd - leisure,2026
+retail|hotel|unknown,13
+retail|multi|f&d,3
+retail|multi|hbw,17
+retail|multi|health & beauty,5
+retail|multi|hotel,2
+retail|retail|end,385003
+retail|softlines|end,26625
+retail|softlines|f&d,1878
+retail|softlines|hotel,493
+retail|tech & toys|charity,1
+retail|tech & toys|f&d,1557
+retail|tech & toys|home,4757
+retail|tech & toys|tech & toys,20465
+retail|tour|h&a,33
+retail|tour|retail,145
+retail|tour|unknown,1
+retail|ttd|multi,12
+retail|ttd|ttd,20492
+retail|ttd - leisure|charity,5
+retail|ttd - leisure|home,2562
+retail|ttd - leisure|unknown,9
+retail|ttd - live|hotel,224
+retail|ttd - live|ttd - live,4210
+retail|unknown|ttd - live,13
+softlines|charity|ttd,2
+softlines|f&d|f&d,6732
+softlines|f&d|multi,2
+softlines|f&d|retail,2057
+softlines|h&a|hardlines,725
+softlines|hardlines|end,22945
+softlines|hardlines|tour,28
+softlines|hardlines|ttd - live,303
+softlines|hardlines|unknown,48
+softlines|hbw|end,15021
+softlines|hbw|health & beauty,1187
+softlines|hbw|retail,2846
+softlines|hbw|softlines,5729
+softlines|hbw|ttd - leisure,2344
+softlines|hbw|ttd - live,424
+softlines|hbw|unknown,44
+softlines|health & beauty|health & beauty,12449
+softlines|health & beauty|hotel,276
+softlines|health & beauty|tech & toys,3100
+softlines|health & beauty|ttd - live,259
+softlines|health & beauty|unknown,90
+softlines|home|home,18919
+softlines|home|hotel,312
+softlines|home|retail,3698
+softlines|home|ttd - leisure,1617
+softlines|hotel|health & beauty,133
+softlines|hotel|retail,441
+softlines|multi|f&d,5
+softlines|multi|h&a,5
+softlines|multi|hotel,1
+softlines|multi|ttd - leisure,12
+softlines|retail|end,25826
+softlines|retail|charity,1
+softlines|retail|hardlines,3442
+softlines|retail|tour,29
+softlines|retail|ttd,1156
+softlines|retail|ttd - live,526
+softlines|retail|unknown,63
+softlines|softlines|f&d,9652
+softlines|softlines|hardlines,30493
+softlines|softlines|home,28817
+softlines|softlines|multi,37
+softlines|softlines|retail,26143
+softlines|softlines|ttd - leisure,13455
+softlines|tech & toys|health & beauty,2434
+softlines|tech & toys|hotel,301
+softlines|tech & toys|tech & toys,17730
+softlines|tech & toys|unknown,64
+softlines|tour|end,154
+softlines|tour|h&a,11
+softlines|tour|hardlines,7
+softlines|tour|home,26
+softlines|tour|hotel,10
+softlines|tour|softlines,43
+softlines|tour|ttd,17
+softlines|ttd|end,3441
+softlines|ttd|charity,2
+softlines|ttd|home,949
+softlines|ttd|ttd,5891
+softlines|ttd|ttd - live,387
+softlines|ttd - leisure|end,17203
+softlines|ttd - leisure|f&d,1123
+softlines|ttd - leisure|h&a,613
+softlines|ttd - leisure|hbw,1686
+softlines|ttd - leisure|retail,2313
+softlines|ttd - leisure|tour,19
+softlines|ttd - live|f&d,191
+softlines|ttd - live|hardlines,260
+softlines|ttd - live|retail,405
+softlines|ttd - live|unknown,1
+softlines|unknown|retail,71
+softlines|unknown|ttd - leisure,40
+tech & toys|charity|f&d,1
+tech & toys|charity|ttd - leisure,1
+tech & toys|f&d|charity,2
+tech & toys|f&d|multi,3
+tech & toys|f&d|tech & toys,2534
+tech & toys|f&d|unknown,38
+tech & toys|h&a|hbw,889
+tech & toys|h&a|ttd - live,162
+tech & toys|hardlines|end,21341
+tech & toys|hardlines|hardlines,18993
+tech & toys|hardlines|multi,4
+tech & toys|hardlines|ttd - live,305
+tech & toys|hbw|hotel,264
+tech & toys|health & beauty|h&a,545
+tech & toys|health & beauty|hbw,1395
+tech & toys|health & beauty|home,2635
+tech & toys|health & beauty|multi,4
+tech & toys|health & beauty|unknown,56
+tech & toys|home|f&d,1111
+tech & toys|home|multi,1
+tech & toys|home|retail,3201
+tech & toys|home|softlines,6005
+tech & toys|home|tech & toys,13326
+tech & toys|home|ttd - leisure,1892
+tech & toys|hotel|f&d,198
+tech & toys|hotel|hbw,260
+tech & toys|hotel|multi,1
+tech & toys|hotel|softlines,263
+tech & toys|multi|f&d,6
+tech & toys|multi|h&a,4
+tech & toys|multi|hbw,2
+tech & toys|multi|retail,3
+tech & toys|multi|softlines,1
+tech & toys|multi|tech & toys,9
+tech & toys|retail|retail,15161
+tech & toys|retail|tour,32
+tech & toys|retail|unknown,52
+tech & toys|softlines|hotel,324
+tech & toys|softlines|ttd - live,320
+tech & toys|softlines|unknown,68
+tech & toys|tech & toys|end,111283
+tech & toys|tech & toys|hotel,1596
+tech & toys|tech & toys|multi,27
+tech & toys|tech & toys|softlines,20389
+tech & toys|tech & toys|ttd,4601
+tech & toys|tour|h&a,13
+tech & toys|tour|home,11
+tech & toys|tour|softlines,14
+tech & toys|ttd|softlines,1096
+tech & toys|ttd|ttd - leisure,2131
+tech & toys|ttd - leisure|hbw,1415
+tech & toys|ttd - leisure|softlines,1235
+tech & toys|ttd - leisure|tech & toys,2731
+tech & toys|ttd - live|hotel,56
+tech & toys|unknown|h&a,17
+tech & toys|unknown|hardlines,58
+tech & toys|unknown|ttd - live,11
+tour|f&d|hardlines,15
+tour|f&d|home,24
+tour|f&d|softlines,32
+tour|f&d|tour,35
+tour|h&a|end,340
+tour|hardlines|end,268
+tour|hardlines|hardlines,205
+tour|hardlines|health & beauty,15
+tour|hardlines|ttd - leisure,34
+tour|hbw|hbw,861
+tour|hbw|multi,1
+tour|hbw|retail,102
+tour|hbw|softlines,51
+tour|hbw|tour,82
+tour|hbw|ttd - leisure,194
+tour|hbw|unknown,2
+tour|health & beauty|h&a,9
+tour|health & beauty|hbw,28
+tour|health & beauty|tech & toys,12
+tour|home|retail,35
+tour|home|softlines,51
+tour|home|tech & toys,35
+tour|home|tour,18
+tour|home|ttd,15
+tour|hotel|health & beauty,10
+tour|hotel|softlines,16
+tour|hotel|tech & toys,12
+tour|hotel|ttd,21
+tour|hotel|ttd - leisure,65
+tour|hotel|unknown,1
+tour|multi|h&a,1
+tour|retail|hotel,23
+tour|retail|tech & toys,35
+tour|softlines|health & beauty,29
+tour|tech & toys|hbw,38
+tour|tech & toys|hotel,6
+tour|tech & toys|retail,26
+tour|tech & toys|softlines,47
+tour|tour|end,5449
+tour|tour|hardlines,223
+tour|tour|home,240
+tour|tour|hotel,295
+tour|tour|unknown,7
+tour|ttd|end,189
+tour|ttd|health & beauty,21
+tour|ttd|ttd,270
+tour|ttd|unknown,1
+tour|ttd - leisure|f&d,64
+tour|ttd - leisure|health & beauty,6
+tour|ttd - leisure|home,32
+tour|ttd - leisure|tech & toys,50
+tour|ttd - leisure|ttd - leisure,695
+tour|ttd - live|f&d,14
+tour|ttd - live|h&a,10
+tour|ttd - live|hotel,10
+tour|ttd - live|retail,14
+tour|ttd - live|ttd - live,95
+tour|unknown|f&d,2
+tour|unknown|hbw,4
+tour|unknown|health & beauty,1
+tour|unknown|ttd - live,2
+tour|unknown|unknown,4
+ttd|charity|charity,2
+ttd|charity|ttd,14
+ttd|charity|ttd - live,2
+ttd|f&d|f&d,49060
+ttd|f&d|hbw,12506
+ttd|f&d|health & beauty,2181
+ttd|f&d|ttd,18207
+ttd|h&a|hardlines,1671
+ttd|h&a|softlines,1585
+ttd|h&a|tech & toys,1476
+ttd|hardlines|h&a,914
+ttd|hardlines|multi,5
+ttd|hardlines|softlines,3290
+ttd|hbw|home,3574
+ttd|hbw|multi,18
+ttd|hbw|tech & toys,3283
+ttd|health & beauty|hbw,3182
+ttd|health & beauty|retail,3218
+ttd|health & beauty|tech & toys,2141
+ttd|health & beauty|ttd,3617
+ttd|home|charity,1
+ttd|home|h&a,864
+ttd|home|softlines,3541
+ttd|home|tech & toys,3215
+ttd|home|ttd - leisure,4105
+ttd|home|ttd - live,718
+ttd|hotel|h&a,751
+ttd|hotel|hbw,2061
+ttd|hotel|hotel,9020
+ttd|hotel|softlines,760
+ttd|hotel|ttd - leisure,4995
+ttd|hotel|ttd - live,726
+ttd|multi|hardlines,11
+ttd|multi|softlines,10
+ttd|multi|tech & toys,9
+ttd|retail|retail,47369
+ttd|retail|ttd,11727
+ttd|retail|ttd - leisure,22614
+ttd|softlines|charity,2
+ttd|softlines|retail,4134
+ttd|tech & toys|retail,3356
+ttd|tech & toys|unknown,60
+ttd|tour|health & beauty,28
+ttd|tour|home,45
+ttd|tour|tech & toys,37
+ttd|tour|ttd,119
+ttd|tour|unknown,2
+ttd|ttd|health & beauty,11053
+ttd|ttd|home,11361
+ttd|ttd|multi,80
+ttd|ttd|tech & toys,13124
+ttd|ttd|ttd,293563
+ttd|ttd - leisure|charity,8
+ttd|ttd - leisure|h&a,5996
+ttd|ttd - leisure|health & beauty,1463
+ttd|ttd - leisure|softlines,5030
+ttd|ttd - leisure|tour,196
+ttd|ttd - leisure|unknown,12
+ttd|ttd - live|ttd - leisure,7249
+ttd|unknown|end,579
+ttd|unknown|hbw,326
+ttd - leisure|charity|f&d,1
+ttd - leisure|charity|hardlines,1
+ttd - leisure|charity|hbw,1
+ttd - leisure|charity|retail,5
+ttd - leisure|charity|softlines,1
+ttd - leisure|f&d|f&d,21225
+ttd - leisure|f&d|hbw,4440
+ttd - leisure|f&d|home,1248
+ttd - leisure|f&d|retail,4897
+ttd - leisure|f&d|ttd - live,1611
+ttd - leisure|h&a|softlines,827
+ttd - leisure|h&a|unknown,1
+ttd - leisure|hardlines|hardlines,15366
+ttd - leisure|hardlines|softlines,3812
+ttd - leisure|hardlines|ttd - live,581
+ttd - leisure|hbw|charity,4
+ttd - leisure|hbw|hbw,37796
+ttd - leisure|health & beauty|hardlines,1098
+ttd - leisure|health & beauty|home,677
+ttd - leisure|health & beauty|hotel,108
+ttd - leisure|health & beauty|tech & toys,594
+ttd - leisure|home|end,15975
+ttd - leisure|home|h&a,440
+ttd - leisure|home|home,9460
+ttd - leisure|home|retail,1931
+ttd - leisure|home|ttd - live,376
+ttd - leisure|hotel|retail,1010
+ttd - leisure|hotel|tech & toys,344
+ttd - leisure|retail|f&d,3465
+ttd - leisure|softlines|multi,2
+ttd - leisure|softlines|retail,2568
+ttd - leisure|softlines|tour,14
+ttd - leisure|softlines|ttd - live,460
+ttd - leisure|tech & toys|f&d,796
+ttd - leisure|tech & toys|home,2653
+ttd - leisure|tech & toys|multi,2
+ttd - leisure|tech & toys|tech & toys,11949
+ttd - leisure|tour|hotel,24
+ttd - leisure|tour|tech & toys,14
+ttd - leisure|tour|ttd - leisure,123
+ttd - leisure|ttd - leisure|health & beauty,2853
+ttd - leisure|ttd - leisure|retail,36451
+ttd - leisure|ttd - leisure|ttd - live,14814
+ttd - leisure|ttd - leisure|unknown,37
+ttd - leisure|ttd - live|end,27903
+ttd - leisure|ttd - live|charity,2
+ttd - leisure|ttd - live|f&d,1462
+ttd - leisure|ttd - live|multi,3
+ttd - leisure|ttd - live|softlines,861
+ttd - leisure|ttd - live|tour,34
+ttd - leisure|ttd - live|unknown,4
+ttd - leisure|unknown|end,56
+ttd - leisure|unknown|softlines,4
+ttd - leisure|unknown|ttd - live,2
+ttd - leisure|unknown|unknown,10
+ttd - live|f&d|hardlines,276
+ttd - live|f&d|retail,518
+ttd - live|f&d|softlines,269
+ttd - live|f&d|ttd - live,641
+ttd - live|h&a|hbw,318
+ttd - live|hardlines|h&a,81
+ttd - live|hardlines|home,490
+ttd - live|hardlines|hotel,53
+ttd - live|hbw|f&d,488
+ttd - live|hbw|tour,12
+ttd - live|health & beauty|hbw,107
+ttd - live|health & beauty|health & beauty,357
+ttd - live|health & beauty|ttd - leisure,175
+ttd - live|health & beauty|ttd - live,108
+ttd - live|home|h&a,61
+ttd - live|home|softlines,443
+ttd - live|hotel|hotel,883
+ttd - live|hotel|tech & toys,53
+ttd - live|hotel|ttd - leisure,333
+ttd - live|hotel|ttd - live,171
+ttd - live|multi|f&d,1
+ttd - live|multi|multi,1
+ttd - live|multi|ttd - leisure,2
+ttd - live|retail|f&d,427
+ttd - live|retail|h&a,211
+ttd - live|retail|home,336
+ttd - live|retail|tech & toys,386
+ttd - live|softlines|hardlines,542
+ttd - live|softlines|home,419
+ttd - live|softlines|hotel,60
+ttd - live|softlines|retail,398
+ttd - live|softlines|softlines,3173
+ttd - live|softlines|ttd - live,281
+ttd - live|tech & toys|f&d,89
+ttd - live|tech & toys|h&a,66
+ttd - live|tech & toys|unknown,1
+ttd - live|tour|home,9
+ttd - live|tour|tour,98
+ttd - live|tour|ttd - leisure,20
+ttd - live|ttd - leisure|h&a,607
+ttd - live|ttd - leisure|hardlines,863
+ttd - live|ttd - leisure|hotel,353
+ttd - live|ttd - leisure|tech & toys,570
+ttd - live|ttd - leisure|tour,22
+ttd - live|ttd - leisure|ttd - leisure,13724
+ttd - live|ttd - leisure|ttd - live,2478
+ttd - live|ttd - live|end,48367
+ttd - live|ttd - live|tech & toys,945
+ttd - live|ttd - live|ttd - leisure,6838
+unknown|h&a|h&a,134
+unknown|h&a|home,16
+unknown|h&a|ttd - leisure,49
+unknown|hardlines|hardlines,302
+unknown|hardlines|hbw,34
+unknown|hardlines|health & beauty,31
+unknown|hardlines|softlines,62
+unknown|hardlines|ttd - leisure,30
+unknown|hbw|hbw,1603
+unknown|health & beauty|end,196
+unknown|health & beauty|hardlines,91
+unknown|health & beauty|softlines,65
+unknown|home|h&a,11
+unknown|home|home,292
+unknown|hotel|hbw,19
+unknown|hotel|hotel,58
+unknown|hotel|softlines,5
+unknown|retail|hbw,148
+unknown|retail|home,54
+unknown|retail|retail,420
+unknown|softlines|hbw,70
+unknown|softlines|softlines,549
+unknown|softlines|ttd,3
+unknown|tech & toys|end,258
+unknown|tech & toys|f&d,15
+unknown|tech & toys|retail,51
+unknown|tech & toys|softlines,74
+unknown|tech & toys|tech & toys,266
+unknown|tech & toys|ttd,2
+unknown|tour|end,4
+unknown|tour|tour,5
+unknown|ttd|hbw,82
+unknown|ttd - leisure|hbw,197
+unknown|ttd - leisure|home,33
+unknown|ttd - live|f&d,8
+unknown|ttd - live|health & beauty,4
+unknown|ttd - live|home,5
+unknown|ttd - live|hotel,2
+unknown|ttd - live|ttd - leisure,30
+unknown|unknown|h&a,82
+unknown|unknown|retail,259
+unknown|unknown|softlines,341
+unknown|unknown|tour,1
+unknown|unknown|ttd - leisure,252
+charity|f&d|f&d,12
+charity|hardlines|hardlines,2
+charity|hbw|f&d,1
+charity|softlines|tech & toys,2
+charity|ttd|end,5
+charity|ttd - leisure|hotel,1
+charity|ttd - leisure|retail,4
+charity|unknown|ttd - leisure,1
+f&d|hardlines|charity,2
+f&d|hardlines|home,3523
+f&d|hbw|hbw,62283
+f&d|home|ttd - live,402
+f&d|multi|f&d,14
+f&d|ttd - live|ttd - leisure,3400
+f&d|unknown|health & beauty,53
+f&d|unknown|ttd - live,13
+h&a|charity|hbw,1
+h&a|hardlines|h&a,3154
+h&a|hardlines|ttd - leisure,1266
+h&a|home|hotel,139
+h&a|multi|ttd,6
+h&a|softlines|ttd,366
+h&a|tech & toys|multi,1
+h&a|tour|tour,350
+h&a|tour|ttd - live,9
+h&a|ttd - leisure|f&d,3392
+h&a|ttd - leisure|h&a,10066
+h&a|ttd - live|h&a,1388
+h&a|ttd - live|unknown,1
+hardlines|f&d|hardlines,2530
+hardlines|hardlines|end,127642
+hardlines|hardlines|softlines,21311
+hardlines|hbw|end,16323
+hardlines|hbw|hardlines,3688
+hardlines|hbw|health & beauty,675
+hardlines|health & beauty|end,5347
+hardlines|multi|softlines,3
+hardlines|retail|tour,27
+hardlines|tour|ttd,3
+hardlines|ttd|softlines,807
+hardlines|ttd|unknown,39
+hardlines|unknown|ttd,6
+hbw|charity|hardlines,1
+hbw|hardlines|hardlines,20271
+hbw|multi|retail,14
+hbw|tech & toys|f&d,1209
+hbw|tech & toys|ttd,844
+hbw|tour|retail,96
+hbw|ttd - live|multi,1
+health & beauty|f&d|hotel,200
+health & beauty|f&d|unknown,23
+health & beauty|h&a|hotel,131
+health & beauty|hardlines|hotel,269
+health & beauty|hbw|softlines,2193
+health & beauty|hbw|ttd - live,559
+health & beauty|health & beauty|tour,122
+health & beauty|multi|hardlines,9
+health & beauty|multi|multi,8
+health & beauty|multi|ttd - live,1
+health & beauty|retail|h&a,996
+health & beauty|softlines|end,12144
+health & beauty|tech & toys|home,3330
+health & beauty|tour|hbw,39
+health & beauty|ttd|ttd,6244
+health & beauty|unknown|ttd - live,9
+home|f&d|health & beauty,451
+home|f&d|home,2089
+home|h&a|h&a,3267
+home|hbw|unknown,32
+home|health & beauty|ttd - leisure,1125
+home|multi|end,10
+home|multi|hardlines,1
+home|softlines|hardlines,6788
+home|tour|health & beauty,9
+home|tour|home,36
+home|tour|hotel,11
+home|ttd|hardlines,727
+home|ttd - live|h&a,88
+home|unknown|hbw,42
+hotel|f&d|health & beauty,214
+hotel|f&d|unknown,16
+hotel|h&a|retail,527
+hotel|h&a|tour,16
+hotel|h&a|ttd - live,144
+hotel|hardlines|softlines,755
+hotel|health & beauty|multi,1
+hotel|home|retail,475
+hotel|multi|multi,4
+hotel|multi|softlines,2
+hotel|retail|end,10994
+hotel|retail|tech & toys,634
+hotel|softlines|softlines,4449
+hotel|softlines|tech & toys,536
+hotel|ttd|h&a,469
+hotel|ttd|hbw,1395
+hotel|ttd|unknown,17
+hotel|ttd - live|home,105
+hotel|ttd - live|ttd - live,1248
+hotel|unknown|health & beauty,7
+hotel|unknown|retail,12
+hotel|unknown|tech & toys,7
+multi|f&d|ttd,3
+multi|h&a|hbw,9
+multi|hbw|end,74
+multi|health & beauty|tech & toys,4
+multi|home|home,16
+multi|home|tour,1
+multi|home|ttd - leisure,3
+multi|hotel|softlines,2
+multi|retail|end,83
+multi|softlines|f&d,1
+multi|ttd - leisure|hotel,6
+multi|ttd - leisure|ttd - leisure,77
+retail|f&d|hardlines,3115
+retail|h&a|charity,1
+retail|hardlines|ttd,703
+retail|hbw|f&d,6348
+retail|hbw|ttd - leisure,10962
+retail|home|hardlines,5797
+retail|home|health & beauty,2304
+retail|hotel|retail,2616
+retail|multi|multi,33
+retail|softlines|home,5842
+retail|tech & toys|health & beauty,1912
+retail|tour|home,42
+retail|unknown|f&d,58
+retail|unknown|hbw,144
+softlines|f&d|hbw,1596
+softlines|f&d|tech & toys,906
+softlines|h&a|end,5625
+softlines|h&a|f&d,572
+softlines|hardlines|h&a,769
+softlines|hardlines|tech & toys,5749
+softlines|hbw|h&a,959
+softlines|hbw|hardlines,1835
+softlines|home|hardlines,6638
+softlines|home|tech & toys,5181
+softlines|hotel|hardlines,282
+softlines|hotel|hotel,1805
+softlines|hotel|ttd - live,85
+softlines|retail|softlines,10548
+softlines|softlines|hotel,2471
+softlines|ttd|tech & toys,917
+softlines|ttd|tour,27
+softlines|ttd|unknown,62
+softlines|ttd - leisure|tech & toys,1086
+softlines|ttd - live|end,3200
+softlines|unknown|health & beauty,52
+softlines|unknown|hotel,7
+tech & toys|charity|end,7
+tech & toys|f&d|f&d,5708
+tech & toys|hbw|hardlines,1433
+tech & toys|home|hardlines,6161
+tech & toys|hotel|ttd - leisure,472
+tech & toys|multi|end,33
+tech & toys|multi|ttd - leisure,7
+tech & toys|tech & toys|hbw,8510
+tech & toys|tech & toys|tech & toys,131252
+tech & toys|tour|hardlines,20
+tech & toys|unknown|softlines,58
+tour|multi|multi,1
+tour|retail|tour,35
+tour|retail|ttd - leisure,88
+tour|tech & toys|ttd,7
+tour|tour|f&d,378
+tour|ttd|hbw,94
+ttd|hbw|hotel,2237
+ttd|home|hbw,2258
+ttd|home|retail,3189
+ttd|retail|f&d,8870
+ttd|tech & toys|hbw,2341
+ttd|tech & toys|hotel,476
+ttd|tech & toys|tech & toys,14851
+ttd|tour|hbw,163
+ttd|tour|ttd - leisure,279
+ttd|tour|ttd - live,55
+ttd|ttd|softlines,16074
+ttd|ttd - leisure|f&d,11572
+ttd|ttd - leisure|hardlines,5905
+ttd|ttd - leisure|hotel,3131
+ttd|ttd - leisure|ttd - live,7688
+ttd|ttd - live|home,666
+ttd|unknown|ttd,115
+ttd - leisure|f&d|end,49802
+ttd - leisure|f&d|tech & toys,1411
+ttd - leisure|h&a|hardlines,1095
+ttd - leisure|h&a|home,677
+ttd - leisure|hbw|home,1807
+ttd - leisure|health & beauty|health & beauty,2427
+ttd - leisure|home|f&d,677
+ttd - leisure|hotel|ttd - live,420
+ttd - leisure|retail|home,2403
+ttd - leisure|retail|tech & toys,2984
+ttd - leisure|tech & toys|retail,2108
+ttd - leisure|ttd - leisure|end,600569
+ttd - leisure|ttd - leisure|hardlines,16292
+ttd - leisure|ttd - leisure|home,9912
+ttd - leisure|ttd - leisure|tour,367
+ttd - leisure|ttd - live|hbw,2173
+ttd - live|hbw|hotel,130
+ttd - live|health & beauty|h&a,37
+ttd - live|health & beauty|hardlines,172
+ttd - live|softlines|hbw,210
+ttd - live|tech & toys|hardlines,494
+ttd - live|tech & toys|ttd - live,246
+ttd - live|tour|hotel,6
+ttd - live|ttd - live|ttd - live,24836
+unknown|h&a|hotel,2
+unknown|h&a|tech & toys,23
+unknown|hbw|end,1530
+unknown|health & beauty|home,55
+unknown|health & beauty|hotel,5
+unknown|health & beauty|ttd - leisure,34
+unknown|home|f&d,13
+unknown|home|health & beauty,31
+unknown|softlines|h&a,15
+unknown|softlines|hardlines,76
+unknown|softlines|home,97
+unknown|tech & toys|hardlines,73
+unknown|ttd|tech & toys,9
+unknown|ttd|ttd - leisure,64
+unknown|ttd|unknown,22

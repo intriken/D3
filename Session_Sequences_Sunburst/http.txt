@@ -1,0 +1,3 @@
+npm install -g http-server
+
+Eg. d:\my_project> http-server
